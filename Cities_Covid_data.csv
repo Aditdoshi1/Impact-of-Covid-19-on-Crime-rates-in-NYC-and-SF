@@ -1,0 +1,3029 @@
+county,date,state,cases,deaths
+Cook,2020-01-24,Illinois,1,0.0
+Cook,2020-01-25,Illinois,1,0.0
+Cook,2020-01-26,Illinois,1,0.0
+Cook,2020-01-27,Illinois,1,0.0
+Cook,2020-01-28,Illinois,1,0.0
+Cook,2020-01-29,Illinois,1,0.0
+Cook,2020-01-30,Illinois,2,0.0
+Cook,2020-01-31,Illinois,2,0.0
+Cook,2020-02-01,Illinois,2,0.0
+San Francisco,2020-02-02,California,2,0.0
+Cook,2020-02-02,Illinois,2,0.0
+San Francisco,2020-02-03,California,2,0.0
+Cook,2020-02-03,Illinois,2,0.0
+San Francisco,2020-02-04,California,2,0.0
+Cook,2020-02-04,Illinois,2,0.0
+San Francisco,2020-02-05,California,2,0.0
+Cook,2020-02-05,Illinois,2,0.0
+San Francisco,2020-02-06,California,2,0.0
+Cook,2020-02-06,Illinois,2,0.0
+San Francisco,2020-02-07,California,2,0.0
+Cook,2020-02-07,Illinois,2,0.0
+San Francisco,2020-02-08,California,2,0.0
+Cook,2020-02-08,Illinois,2,0.0
+San Francisco,2020-02-09,California,2,0.0
+Cook,2020-02-09,Illinois,2,0.0
+San Francisco,2020-02-10,California,2,0.0
+Cook,2020-02-10,Illinois,2,0.0
+San Francisco,2020-02-11,California,2,0.0
+Cook,2020-02-11,Illinois,2,0.0
+San Francisco,2020-02-12,California,2,0.0
+Cook,2020-02-12,Illinois,2,0.0
+San Francisco,2020-02-13,California,2,0.0
+Cook,2020-02-13,Illinois,2,0.0
+San Francisco,2020-02-14,California,2,0.0
+Cook,2020-02-14,Illinois,2,0.0
+San Francisco,2020-02-15,California,2,0.0
+Cook,2020-02-15,Illinois,2,0.0
+San Francisco,2020-02-16,California,2,0.0
+Cook,2020-02-16,Illinois,2,0.0
+San Francisco,2020-02-17,California,2,0.0
+Cook,2020-02-17,Illinois,2,0.0
+San Francisco,2020-02-18,California,2,0.0
+Cook,2020-02-18,Illinois,2,0.0
+San Francisco,2020-02-19,California,2,0.0
+Cook,2020-02-19,Illinois,2,0.0
+San Francisco,2020-02-20,California,2,0.0
+Cook,2020-02-20,Illinois,2,0.0
+San Francisco,2020-02-21,California,2,0.0
+Cook,2020-02-21,Illinois,2,0.0
+San Francisco,2020-02-22,California,2,0.0
+Cook,2020-02-22,Illinois,2,0.0
+San Francisco,2020-02-23,California,2,0.0
+Cook,2020-02-23,Illinois,2,0.0
+San Francisco,2020-02-24,California,3,0.0
+Cook,2020-02-24,Illinois,2,0.0
+San Francisco,2020-02-25,California,3,0.0
+Cook,2020-02-25,Illinois,2,0.0
+San Francisco,2020-02-26,California,3,0.0
+Cook,2020-02-26,Illinois,2,0.0
+San Francisco,2020-02-27,California,3,0.0
+Cook,2020-02-27,Illinois,2,0.0
+San Francisco,2020-02-28,California,3,0.0
+Cook,2020-02-28,Illinois,2,0.0
+San Francisco,2020-02-29,California,3,0.0
+Cook,2020-02-29,Illinois,3,0.0
+San Francisco,2020-03-01,California,3,0.0
+Cook,2020-03-01,Illinois,3,0.0
+San Francisco,2020-03-02,California,3,0.0
+Cook,2020-03-02,Illinois,4,0.0
+San Francisco,2020-03-03,California,3,0.0
+Cook,2020-03-03,Illinois,4,0.0
+San Francisco,2020-03-04,California,3,0.0
+Cook,2020-03-04,Illinois,4,0.0
+San Francisco,2020-03-05,California,5,0.0
+Cook,2020-03-05,Illinois,5,0.0
+San Francisco,2020-03-06,California,5,0.0
+Cook,2020-03-06,Illinois,6,0.0
+San Francisco,2020-03-07,California,11,0.0
+Cook,2020-03-07,Illinois,6,0.0
+San Francisco,2020-03-08,California,11,0.0
+Cook,2020-03-08,Illinois,7,0.0
+San Francisco,2020-03-09,California,16,0.0
+Cook,2020-03-09,Illinois,11,0.0
+San Francisco,2020-03-10,California,17,0.0
+Cook,2020-03-10,Illinois,17,0.0
+San Francisco,2020-03-11,California,17,0.0
+Cook,2020-03-11,Illinois,22,0.0
+San Francisco,2020-03-12,California,21,0.0
+Cook,2020-03-12,Illinois,27,0.0
+San Francisco,2020-03-13,California,26,0.0
+Cook,2020-03-13,Illinois,40,0.0
+San Francisco,2020-03-14,California,31,0.0
+Cook,2020-03-14,Illinois,51,0.0
+San Francisco,2020-03-15,California,37,0.0
+Cook,2020-03-15,Illinois,76,0.0
+San Francisco,2020-03-16,California,43,0.0
+Cook,2020-03-16,Illinois,76,0.0
+San Francisco,2020-03-17,California,46,0.0
+Cook,2020-03-17,Illinois,107,1.0
+San Francisco,2020-03-18,California,51,0.0
+Cook,2020-03-18,Illinois,179,1.0
+San Francisco,2020-03-19,California,73,0.0
+Cook,2020-03-19,Illinois,279,2.0
+San Francisco,2020-03-20,California,79,0.0
+Cook,2020-03-20,Illinois,412,3.0
+San Francisco,2020-03-21,California,84,0.0
+Cook,2020-03-21,Illinois,548,4.0
+San Francisco,2020-03-22,California,111,0.0
+Cook,2020-03-22,Illinois,805,6.0
+San Francisco,2020-03-23,California,134,0.0
+Cook,2020-03-23,Illinois,922,9.0
+San Francisco,2020-03-24,California,152,0.0
+Cook,2020-03-24,Illinois,1194,12.0
+San Francisco,2020-03-25,California,181,1.0
+Cook,2020-03-25,Illinois,1418,13.0
+San Francisco,2020-03-26,California,226,2.0
+Cook,2020-03-26,Illinois,1904,18.0
+San Francisco,2020-03-27,California,282,3.0
+Cook,2020-03-27,Illinois,2239,20.0
+San Francisco,2020-03-28,California,308,4.0
+Cook,2020-03-28,Illinois,2613,28.0
+San Francisco,2020-03-29,California,343,5.0
+Cook,2020-03-29,Illinois,3445,40.0
+San Francisco,2020-03-30,California,374,6.0
+Cook,2020-03-30,Georgia,1,0.0
+Cook,2020-03-30,Illinois,3727,44.0
+San Francisco,2020-03-31,California,400,6.0
+Cook,2020-03-31,Georgia,1,0.0
+Cook,2020-03-31,Illinois,4496,61.0
+San Francisco,2020-04-01,California,437,7.0
+Cook,2020-04-01,Georgia,1,0.0
+Cook,2020-04-01,Illinois,5152,95.0
+San Francisco,2020-04-02,California,450,7.0
+Cook,2020-04-02,Georgia,1,0.0
+Cook,2020-04-02,Illinois,5575,107.0
+San Francisco,2020-04-03,California,500,7.0
+Cook,2020-04-03,Georgia,1,0.0
+Cook,2020-04-03,Illinois,6473,141.0
+San Francisco,2020-04-04,California,529,8.0
+Cook,2020-04-04,Georgia,1,0.0
+Cook,2020-04-04,Illinois,7439,167.0
+San Francisco,2020-04-05,California,571,8.0
+Cook,2020-04-05,Georgia,1,0.0
+Cook,2020-04-05,Illinois,8043,186.0
+San Francisco,2020-04-06,California,586,9.0
+Cook,2020-04-06,Georgia,2,0.0
+Cook,2020-04-06,Illinois,8728,209.0
+San Francisco,2020-04-07,California,622,9.0
+Cook,2020-04-07,Georgia,4,0.0
+Cook,2020-04-07,Illinois,9509,249.0
+San Francisco,2020-04-08,California,679,10.0
+Cook,2020-04-08,Georgia,4,0.0
+Cook,2020-04-08,Illinois,10520,312.0
+San Francisco,2020-04-09,California,727,10.0
+Cook,2020-04-09,Georgia,6,0.0
+Cook,2020-04-09,Illinois,11415,351.0
+San Francisco,2020-04-10,California,800,13.0
+Cook,2020-04-10,Georgia,6,0.0
+Cook,2020-04-10,Illinois,12472,398.0
+San Francisco,2020-04-11,California,860,13.0
+Cook,2020-04-11,Georgia,6,0.0
+Cook,2020-04-11,Illinois,13417,453.0
+San Francisco,2020-04-12,California,875,14.0
+Cook,2020-04-12,Georgia,7,0.0
+Cook,2020-04-12,Illinois,14585,485.0
+San Francisco,2020-04-13,California,960,15.0
+Cook,2020-04-13,Georgia,7,0.0
+Cook,2020-04-13,Illinois,15474,543.0
+San Francisco,2020-04-14,California,990,15.0
+Cook,2020-04-14,Georgia,7,0.0
+Cook,2020-04-14,Illinois,16323,577.0
+San Francisco,2020-04-15,California,1016,17.0
+Cook,2020-04-15,Georgia,9,0.0
+Cook,2020-04-15,Illinois,17306,630.0
+San Francisco,2020-04-16,California,1022,17.0
+Cook,2020-04-16,Georgia,11,1.0
+Cook,2020-04-16,Illinois,18087,722.0
+San Francisco,2020-04-17,California,1061,20.0
+Cook,2020-04-17,Georgia,12,1.0
+Cook,2020-04-17,Illinois,19391,760.0
+San Francisco,2020-04-18,California,1140,20.0
+Cook,2020-04-18,Georgia,12,1.0
+Cook,2020-04-18,Illinois,20395,860.0
+San Francisco,2020-04-19,California,1160,20.0
+Cook,2020-04-19,Georgia,12,1.0
+Cook,2020-04-19,Illinois,21272,877.0
+San Francisco,2020-04-20,California,1219,20.0
+Cook,2020-04-20,Georgia,13,1.0
+Cook,2020-04-20,Illinois,22101,915.0
+San Francisco,2020-04-21,California,1234,20.0
+Cook,2020-04-21,Georgia,13,1.0
+Cook,2020-04-21,Illinois,23181,1002.0
+San Francisco,2020-04-22,California,1236,21.0
+Cook,2020-04-22,Georgia,15,1.0
+Cook,2020-04-22,Illinois,24546,1072.0
+San Francisco,2020-04-23,California,1305,21.0
+Cook,2020-04-23,Georgia,15,1.0
+Cook,2020-04-23,Illinois,25811,1142.0
+San Francisco,2020-04-24,California,1343,22.0
+Cook,2020-04-24,Georgia,15,1.0
+Cook,2020-04-24,Illinois,27616,1220.0
+San Francisco,2020-04-25,California,1357,22.0
+Cook,2020-04-25,Georgia,16,1.0
+Cook,2020-04-25,Illinois,29058,1267.0
+San Francisco,2020-04-26,California,1411,22.0
+Cook,2020-04-26,Georgia,17,1.0
+Cook,2020-04-26,Illinois,30574,1313.0
+San Francisco,2020-04-27,California,1427,23.0
+Cook,2020-04-27,Georgia,17,1.0
+Cook,2020-04-27,Illinois,31953,1347.0
+San Francisco,2020-04-28,California,1471,23.0
+Cook,2020-04-28,Georgia,20,1.0
+Cook,2020-04-28,Illinois,33449,1457.0
+San Francisco,2020-04-29,California,1490,23.0
+Cook,2020-04-29,Georgia,22,1.0
+Cook,2020-04-29,Illinois,34880,1516.0
+San Francisco,2020-04-30,California,1502,25.0
+Cook,2020-04-30,Georgia,23,1.0
+Cook,2020-04-30,Illinois,36513,1607.0
+San Francisco,2020-05-01,California,1526,28.0
+Cook,2020-05-01,Georgia,25,1.0
+Cook,2020-05-01,Illinois,38668,1673.0
+San Francisco,2020-05-02,California,1552,29.0
+Cook,2020-05-02,Georgia,25,1.0
+Cook,2020-05-02,Illinois,40227,1743.0
+San Francisco,2020-05-03,California,1632,29.0
+Cook,2020-05-03,Georgia,28,1.0
+Cook,2020-05-03,Illinois,42324,1786.0
+San Francisco,2020-05-04,California,1692,30.0
+Cook,2020-05-04,Georgia,28,1.0
+Cook,2020-05-04,Illinois,43715,1802.0
+San Francisco,2020-05-05,California,1760,31.0
+Cook,2020-05-05,Georgia,28,1.0
+Cook,2020-05-05,Illinois,45223,1922.0
+San Francisco,2020-05-06,California,1779,31.0
+Cook,2020-05-06,Georgia,31,1.0
+Cook,2020-05-06,Illinois,46689,2004.0
+San Francisco,2020-05-07,California,1806,32.0
+Cook,2020-05-07,Georgia,31,1.0
+Cook,2020-05-07,Illinois,48341,2110.0
+San Francisco,2020-05-08,California,1856,33.0
+Cook,2020-05-08,Georgia,31,1.0
+Cook,2020-05-08,Illinois,50236,2197.0
+San Francisco,2020-05-09,California,1894,33.0
+Cook,2020-05-09,Georgia,31,1.0
+Cook,2020-05-09,Illinois,51674,2264.0
+San Francisco,2020-05-10,California,1946,34.0
+Cook,2020-05-10,Georgia,32,1.0
+Cook,2020-05-10,Illinois,52655,2317.0
+San Francisco,2020-05-11,California,1957,35.0
+Cook,2020-05-11,Georgia,32,2.0
+Cook,2020-05-11,Illinois,53381,2361.0
+San Francisco,2020-05-12,California,1980,35.0
+Cook,2020-05-12,Georgia,32,3.0
+Cook,2020-05-12,Illinois,55470,2449.0
+San Francisco,2020-05-13,California,1997,35.0
+Cook,2020-05-13,Georgia,32,3.0
+Cook,2020-05-13,Illinois,56406,2589.0
+San Francisco,2020-05-14,California,2007,35.0
+Cook,2020-05-14,Georgia,32,2.0
+Cook,2020-05-14,Illinois,58457,2675.0
+San Francisco,2020-05-15,California,2032,36.0
+Cook,2020-05-15,Georgia,32,2.0
+Cook,2020-05-15,Illinois,59905,2762.0
+San Francisco,2020-05-16,California,2065,36.0
+Cook,2020-05-16,Georgia,32,2.0
+Cook,2020-05-16,Illinois,61212,2814.0
+San Francisco,2020-05-17,California,2097,36.0
+Cook,2020-05-17,Georgia,32,2.0
+Cook,2020-05-17,Illinois,62218,2839.0
+San Francisco,2020-05-18,California,2135,36.0
+Cook,2020-05-18,Georgia,31,2.0
+Cook,2020-05-18,Illinois,63690,2889.0
+San Francisco,2020-05-19,California,2186,36.0
+Cook,2020-05-19,Georgia,31,2.0
+Cook,2020-05-19,Illinois,64691,2980.0
+San Francisco,2020-05-20,California,2189,37.0
+Cook,2020-05-20,Georgia,35,2.0
+Cook,2020-05-20,Illinois,66213,3074.0
+San Francisco,2020-05-21,California,2202,37.0
+Cook,2020-05-21,Georgia,40,2.0
+Cook,2020-05-21,Illinois,67551,3114.0
+San Francisco,2020-05-22,California,2323,40.0
+Cook,2020-05-22,Georgia,44,2.0
+Cook,2020-05-22,Illinois,68949,3187.0
+San Francisco,2020-05-23,California,2353,40.0
+Cook,2020-05-23,Georgia,44,2.0
+Cook,2020-05-23,Illinois,70417,3246.0
+San Francisco,2020-05-24,California,2370,40.0
+Cook,2020-05-24,Georgia,46,2.0
+Cook,2020-05-24,Illinois,72010,3304.0
+San Francisco,2020-05-25,California,2389,40.0
+Cook,2020-05-25,Georgia,46,2.0
+Cook,2020-05-25,Illinois,73097,3324.0
+San Francisco,2020-05-26,California,2402,40.0
+Cook,2020-05-26,Georgia,45,2.0
+Cook,2020-05-26,Illinois,73819,3354.0
+San Francisco,2020-05-27,California,2411,40.0
+Cook,2020-05-27,Georgia,47,2.0
+Cook,2020-05-27,Illinois,74521,3455.0
+San Francisco,2020-05-28,California,2440,40.0
+Cook,2020-05-28,Georgia,48,2.0
+Cook,2020-05-28,Illinois,75306,3519.0
+San Francisco,2020-05-29,California,2476,41.0
+Cook,2020-05-29,Georgia,48,2.0
+Cook,2020-05-29,Illinois,76266,3570.0
+San Francisco,2020-05-30,California,2535,41.0
+Cook,2020-05-30,Georgia,48,2.0
+Cook,2020-05-30,Illinois,77119,3603.0
+San Francisco,2020-05-31,California,2561,42.0
+Cook,2020-05-31,Georgia,48,2.0
+Cook,2020-05-31,Illinois,77925,3642.0
+San Francisco,2020-06-01,California,2573,43.0
+Cook,2020-06-01,Georgia,47,2.0
+Cook,2020-06-01,Illinois,78495,3658.0
+San Francisco,2020-06-02,California,2590,43.0
+Cook,2020-06-02,Georgia,47,2.0
+Cook,2020-06-02,Illinois,79673,3726.0
+San Francisco,2020-06-03,California,2616,43.0
+Cook,2020-06-03,Georgia,45,2.0
+Cook,2020-06-03,Illinois,80204,3780.0
+San Francisco,2020-06-04,California,2647,43.0
+Cook,2020-06-04,Georgia,47,2.0
+Cook,2020-06-04,Illinois,80713,3846.0
+San Francisco,2020-06-05,California,2701,43.0
+Cook,2020-06-05,Georgia,51,2.0
+Cook,2020-06-05,Illinois,81344,3880.0
+San Francisco,2020-06-06,California,2715,43.0
+Cook,2020-06-06,Georgia,56,2.0
+Cook,2020-06-06,Illinois,81924,3913.0
+San Francisco,2020-06-07,California,2750,43.0
+Cook,2020-06-07,Georgia,57,2.0
+Cook,2020-06-07,Illinois,82427,3944.0
+San Francisco,2020-06-08,California,2782,43.0
+Cook,2020-06-08,Georgia,56,1.0
+Cook,2020-06-08,Illinois,82819,3959.0
+San Francisco,2020-06-09,California,2796,44.0
+Cook,2020-06-09,Georgia,57,1.0
+Cook,2020-06-09,Illinois,83271,4010.0
+San Francisco,2020-06-10,California,2812,44.0
+Cook,2020-06-10,Georgia,59,1.0
+Cook,2020-06-10,Illinois,83585,4053.0
+San Francisco,2020-06-11,California,2843,44.0
+Cook,2020-06-11,Georgia,62,1.0
+Cook,2020-06-11,Illinois,83978,4111.0
+San Francisco,2020-06-12,California,2880,44.0
+Cook,2020-06-12,Georgia,67,1.0
+Cook,2020-06-12,Illinois,84249,4162.0
+San Francisco,2020-06-13,California,2909,44.0
+Cook,2020-06-13,Georgia,71,1.0
+Cook,2020-06-13,Illinois,84581,4173.0
+Cook,2020-06-13,Minnesota,1,0.0
+San Francisco,2020-06-14,California,2931,45.0
+Cook,2020-06-14,Georgia,72,1.0
+Cook,2020-06-14,Illinois,84906,4189.0
+Cook,2020-06-14,Minnesota,1,0.0
+San Francisco,2020-06-15,California,2955,45.0
+Cook,2020-06-15,Georgia,75,1.0
+Cook,2020-06-15,Illinois,85184,4206.0
+Cook,2020-06-15,Minnesota,1,0.0
+San Francisco,2020-06-16,California,2974,46.0
+Cook,2020-06-16,Georgia,78,1.0
+Cook,2020-06-16,Illinois,85538,4253.0
+Cook,2020-06-16,Minnesota,1,0.0
+San Francisco,2020-06-17,California,2985,47.0
+Cook,2020-06-17,Georgia,82,1.0
+Cook,2020-06-17,Illinois,85858,4304.0
+Cook,2020-06-17,Minnesota,1,0.0
+San Francisco,2020-06-18,California,3023,47.0
+Cook,2020-06-18,Georgia,86,1.0
+Cook,2020-06-18,Illinois,86179,4333.0
+Cook,2020-06-18,Minnesota,1,0.0
+San Francisco,2020-06-19,California,3060,47.0
+Cook,2020-06-19,Georgia,89,1.0
+Cook,2020-06-19,Illinois,86551,4363.0
+Cook,2020-06-19,Minnesota,1,0.0
+San Francisco,2020-06-20,California,3061,47.0
+Cook,2020-06-20,Georgia,90,1.0
+Cook,2020-06-20,Illinois,86885,4390.0
+Cook,2020-06-20,Minnesota,1,0.0
+San Francisco,2020-06-21,California,3061,47.0
+Cook,2020-06-21,Georgia,91,1.0
+Cook,2020-06-21,Illinois,87177,4404.0
+Cook,2020-06-21,Minnesota,1,0.0
+San Francisco,2020-06-22,California,3188,48.0
+Cook,2020-06-22,Georgia,97,1.0
+Cook,2020-06-22,Illinois,87424,4423.0
+Cook,2020-06-22,Minnesota,1,0.0
+San Francisco,2020-06-23,California,3222,48.0
+Cook,2020-06-23,Georgia,104,1.0
+Cook,2020-06-23,Illinois,87784,4439.0
+Cook,2020-06-23,Minnesota,1,0.0
+San Francisco,2020-06-24,California,3252,48.0
+Cook,2020-06-24,Georgia,110,1.0
+Cook,2020-06-24,Illinois,88138,4478.0
+Cook,2020-06-24,Minnesota,1,0.0
+San Francisco,2020-06-25,California,3300,48.0
+Cook,2020-06-25,Georgia,114,1.0
+Cook,2020-06-25,Illinois,88650,4500.0
+Cook,2020-06-25,Minnesota,1,0.0
+San Francisco,2020-06-26,California,3403,48.0
+Cook,2020-06-26,Georgia,123,1.0
+Cook,2020-06-26,Illinois,89068,4526.0
+Cook,2020-06-26,Minnesota,1,0.0
+San Francisco,2020-06-27,California,3471,49.0
+Cook,2020-06-27,Georgia,126,1.0
+Cook,2020-06-27,Illinois,89407,4536.0
+Cook,2020-06-27,Minnesota,1,0.0
+San Francisco,2020-06-28,California,3515,50.0
+Cook,2020-06-28,Georgia,130,1.0
+Cook,2020-06-28,Illinois,89755,4542.0
+Cook,2020-06-28,Minnesota,1,0.0
+San Francisco,2020-06-29,California,3564,50.0
+Cook,2020-06-29,Georgia,130,1.0
+Cook,2020-06-29,Illinois,90122,4554.0
+Cook,2020-06-29,Minnesota,1,0.0
+San Francisco,2020-06-30,California,3606,50.0
+Cook,2020-06-30,Georgia,133,1.0
+Cook,2020-06-30,Illinois,90536,4565.0
+Cook,2020-06-30,Minnesota,1,0.0
+San Francisco,2020-07-01,California,3651,50.0
+Cook,2020-07-01,Georgia,147,1.0
+Cook,2020-07-01,Illinois,90911,4581.0
+Cook,2020-07-01,Minnesota,1,0.0
+San Francisco,2020-07-02,California,3722,50.0
+Cook,2020-07-02,Georgia,148,1.0
+Cook,2020-07-02,Illinois,91381,4609.0
+Cook,2020-07-02,Minnesota,1,0.0
+San Francisco,2020-07-03,California,3722,50.0
+Cook,2020-07-03,Georgia,156,2.0
+Cook,2020-07-03,Illinois,91774,4618.0
+Cook,2020-07-03,Minnesota,1,0.0
+San Francisco,2020-07-04,California,3784,50.0
+Cook,2020-07-04,Georgia,171,2.0
+Cook,2020-07-04,Illinois,92240,4622.0
+Cook,2020-07-04,Minnesota,1,0.0
+San Francisco,2020-07-05,California,3864,50.0
+Cook,2020-07-05,Georgia,177,2.0
+Cook,2020-07-05,Illinois,92532,4627.0
+Cook,2020-07-05,Minnesota,1,0.0
+San Francisco,2020-07-06,California,3995,50.0
+Cook,2020-07-06,Georgia,182,2.0
+Cook,2020-07-06,Illinois,92781,4630.0
+Cook,2020-07-06,Minnesota,1,0.0
+San Francisco,2020-07-07,California,4023,50.0
+Cook,2020-07-07,Georgia,195,3.0
+Cook,2020-07-07,Illinois,93053,4651.0
+Cook,2020-07-07,Minnesota,1,0.0
+San Francisco,2020-07-08,California,4074,50.0
+Cook,2020-07-08,Georgia,196,3.0
+Cook,2020-07-08,Illinois,93496,4664.0
+Cook,2020-07-08,Minnesota,1,0.0
+San Francisco,2020-07-09,California,4148,50.0
+Cook,2020-07-09,Georgia,205,3.0
+Cook,2020-07-09,Illinois,94005,4676.0
+Cook,2020-07-09,Minnesota,1,0.0
+San Francisco,2020-07-10,California,4319,50.0
+Cook,2020-07-10,Georgia,235,4.0
+Cook,2020-07-10,Illinois,94605,4693.0
+Cook,2020-07-10,Minnesota,1,0.0
+San Francisco,2020-07-11,California,4429,50.0
+Cook,2020-07-11,Georgia,238,4.0
+Cook,2020-07-11,Illinois,95138,4711.0
+Cook,2020-07-11,Minnesota,1,0.0
+San Francisco,2020-07-12,California,4525,50.0
+Cook,2020-07-12,Georgia,242,4.0
+Cook,2020-07-12,Illinois,95557,4725.0
+Cook,2020-07-12,Minnesota,1,0.0
+San Francisco,2020-07-13,California,4593,50.0
+Cook,2020-07-13,Georgia,248,4.0
+Cook,2020-07-13,Illinois,95884,4729.0
+Cook,2020-07-13,Minnesota,1,0.0
+San Francisco,2020-07-14,California,4643,50.0
+Cook,2020-07-14,Georgia,249,4.0
+Cook,2020-07-14,Illinois,96186,4741.0
+Cook,2020-07-14,Minnesota,1,0.0
+San Francisco,2020-07-15,California,4699,50.0
+Cook,2020-07-15,Georgia,262,4.0
+Cook,2020-07-15,Illinois,96662,4745.0
+Cook,2020-07-15,Minnesota,1,0.0
+San Francisco,2020-07-16,California,4863,51.0
+Cook,2020-07-16,Georgia,271,4.0
+Cook,2020-07-16,Illinois,97214,4750.0
+Cook,2020-07-16,Minnesota,1,0.0
+San Francisco,2020-07-17,California,4978,52.0
+Cook,2020-07-17,Georgia,278,4.0
+Cook,2020-07-17,Illinois,97790,4765.0
+Cook,2020-07-17,Minnesota,1,0.0
+San Francisco,2020-07-18,California,5119,52.0
+Cook,2020-07-18,Georgia,284,4.0
+Cook,2020-07-18,Illinois,98292,4774.0
+Cook,2020-07-18,Minnesota,1,0.0
+San Francisco,2020-07-19,California,5205,52.0
+Cook,2020-07-19,Georgia,289,4.0
+Cook,2020-07-19,Illinois,98670,4776.0
+Cook,2020-07-19,Minnesota,1,0.0
+San Francisco,2020-07-20,California,5308,52.0
+Cook,2020-07-20,Georgia,295,4.0
+Cook,2020-07-20,Illinois,99052,4777.0
+Cook,2020-07-20,Minnesota,1,0.0
+San Francisco,2020-07-21,California,5366,53.0
+Cook,2020-07-21,Georgia,298,5.0
+Cook,2020-07-21,Illinois,99464,4788.0
+Cook,2020-07-21,Minnesota,2,0.0
+San Francisco,2020-07-22,California,5462,53.0
+Cook,2020-07-22,Georgia,301,5.0
+Cook,2020-07-22,Illinois,100124,4801.0
+Cook,2020-07-22,Minnesota,2,0.0
+San Francisco,2020-07-23,California,5567,55.0
+Cook,2020-07-23,Georgia,312,5.0
+Cook,2020-07-23,Illinois,100795,4810.0
+Cook,2020-07-23,Minnesota,2,0.0
+San Francisco,2020-07-24,California,5682,56.0
+Cook,2020-07-24,Georgia,329,5.0
+Cook,2020-07-24,Illinois,101420,4822.0
+Cook,2020-07-24,Minnesota,2,0.0
+San Francisco,2020-07-25,California,5790,56.0
+Cook,2020-07-25,Georgia,334,5.0
+Cook,2020-07-25,Illinois,101955,4829.0
+Cook,2020-07-25,Minnesota,2,0.0
+San Francisco,2020-07-26,California,5935,56.0
+Cook,2020-07-26,Georgia,339,5.0
+Cook,2020-07-26,Illinois,102583,4830.0
+Cook,2020-07-26,Minnesota,2,0.0
+San Francisco,2020-07-27,California,6025,56.0
+Cook,2020-07-27,Georgia,344,5.0
+Cook,2020-07-27,Illinois,103008,4845.0
+Cook,2020-07-27,Minnesota,2,0.0
+San Francisco,2020-07-28,California,6068,56.0
+Cook,2020-07-28,Georgia,347,5.0
+Cook,2020-07-28,Illinois,103441,4857.0
+Cook,2020-07-28,Minnesota,2,0.0
+San Francisco,2020-07-29,California,6200,57.0
+Cook,2020-07-29,Georgia,367,6.0
+Cook,2020-07-29,Illinois,104001,4864.0
+Cook,2020-07-29,Minnesota,2,0.0
+San Francisco,2020-07-30,California,6426,58.0
+Cook,2020-07-30,Georgia,381,6.0
+Cook,2020-07-30,Illinois,104691,4872.0
+Cook,2020-07-30,Minnesota,2,0.0
+San Francisco,2020-07-31,California,6578,59.0
+Cook,2020-07-31,Georgia,394,6.0
+Cook,2020-07-31,Illinois,105493,4886.0
+Cook,2020-07-31,Minnesota,2,0.0
+San Francisco,2020-08-01,California,6726,61.0
+Cook,2020-08-01,Georgia,397,6.0
+Cook,2020-08-01,Illinois,106131,4888.0
+Cook,2020-08-01,Minnesota,2,0.0
+San Francisco,2020-08-02,California,6814,61.0
+Cook,2020-08-02,Georgia,402,6.0
+Cook,2020-08-02,Illinois,106713,4894.0
+Cook,2020-08-02,Minnesota,2,0.0
+San Francisco,2020-08-03,California,6919,61.0
+Cook,2020-08-03,Georgia,405,6.0
+Cook,2020-08-03,Illinois,107247,4897.0
+Cook,2020-08-03,Minnesota,2,0.0
+San Francisco,2020-08-04,California,6992,61.0
+Cook,2020-08-04,Georgia,409,6.0
+Cook,2020-08-04,Illinois,107744,4902.0
+Cook,2020-08-04,Minnesota,2,0.0
+San Francisco,2020-08-05,California,7084,62.0
+Cook,2020-08-05,Georgia,416,6.0
+Cook,2020-08-05,Illinois,108425,4909.0
+Cook,2020-08-05,Minnesota,2,0.0
+San Francisco,2020-08-06,California,7231,63.0
+Cook,2020-08-06,Georgia,426,6.0
+Cook,2020-08-06,Illinois,109150,4912.0
+Cook,2020-08-06,Minnesota,2,0.0
+San Francisco,2020-08-07,California,7329,64.0
+Cook,2020-08-07,Georgia,426,6.0
+Cook,2020-08-07,Illinois,110002,4920.0
+Cook,2020-08-07,Minnesota,3,0.0
+San Francisco,2020-08-08,California,7435,67.0
+Cook,2020-08-08,Georgia,432,6.0
+Cook,2020-08-08,Illinois,110865,4924.0
+Cook,2020-08-08,Minnesota,3,0.0
+San Francisco,2020-08-09,California,7551,67.0
+Cook,2020-08-09,Georgia,438,6.0
+Cook,2020-08-09,Illinois,111447,4928.0
+Cook,2020-08-09,Minnesota,5,0.0
+San Francisco,2020-08-10,California,7626,67.0
+Cook,2020-08-10,Georgia,440,6.0
+Cook,2020-08-10,Illinois,111948,4928.0
+Cook,2020-08-10,Minnesota,5,0.0
+San Francisco,2020-08-11,California,7626,67.0
+Cook,2020-08-11,Georgia,445,6.0
+Cook,2020-08-11,Illinois,112485,4933.0
+Cook,2020-08-11,Minnesota,5,0.0
+San Francisco,2020-08-12,California,7837,67.0
+Cook,2020-08-12,Georgia,454,6.0
+Cook,2020-08-12,Illinois,113045,4934.0
+Cook,2020-08-12,Minnesota,5,0.0
+San Francisco,2020-08-13,California,7947,67.0
+Cook,2020-08-13,Georgia,456,6.0
+Cook,2020-08-13,Illinois,113796,4943.0
+Cook,2020-08-13,Minnesota,5,0.0
+San Francisco,2020-08-14,California,8056,69.0
+Cook,2020-08-14,Georgia,462,6.0
+Cook,2020-08-14,Illinois,114724,4951.0
+Cook,2020-08-14,Minnesota,6,0.0
+San Francisco,2020-08-15,California,8160,69.0
+Cook,2020-08-15,Georgia,472,8.0
+Cook,2020-08-15,Illinois,115344,4953.0
+Cook,2020-08-15,Minnesota,6,0.0
+San Francisco,2020-08-16,California,8295,69.0
+Cook,2020-08-16,Georgia,472,9.0
+Cook,2020-08-16,Illinois,115960,4962.0
+Cook,2020-08-16,Minnesota,6,0.0
+San Francisco,2020-08-17,California,8349,70.0
+Cook,2020-08-17,Georgia,472,9.0
+Cook,2020-08-17,Illinois,116620,4964.0
+Cook,2020-08-17,Minnesota,6,0.0
+San Francisco,2020-08-18,California,8430,70.0
+Cook,2020-08-18,Georgia,475,9.0
+Cook,2020-08-18,Illinois,117171,4974.0
+Cook,2020-08-18,Minnesota,6,0.0
+San Francisco,2020-08-19,California,8531,72.0
+Cook,2020-08-19,Georgia,478,9.0
+Cook,2020-08-19,Illinois,118012,4984.0
+Cook,2020-08-19,Minnesota,6,0.0
+San Francisco,2020-08-20,California,8614,72.0
+Cook,2020-08-20,Georgia,490,10.0
+Cook,2020-08-20,Illinois,118757,4988.0
+Cook,2020-08-20,Minnesota,6,0.0
+San Francisco,2020-08-21,California,8705,72.0
+Cook,2020-08-21,Georgia,492,10.0
+Cook,2020-08-21,Illinois,119644,4997.0
+Cook,2020-08-21,Minnesota,6,0.0
+San Francisco,2020-08-22,California,8794,74.0
+Cook,2020-08-22,Georgia,494,10.0
+Cook,2020-08-22,Illinois,120567,5008.0
+Cook,2020-08-22,Minnesota,6,0.0
+San Francisco,2020-08-23,California,8874,77.0
+Cook,2020-08-23,Georgia,494,10.0
+Cook,2020-08-23,Illinois,121308,5013.0
+Cook,2020-08-23,Minnesota,6,0.0
+San Francisco,2020-08-24,California,8939,77.0
+Cook,2020-08-24,Georgia,497,10.0
+Cook,2020-08-24,Illinois,121894,5015.0
+Cook,2020-08-24,Minnesota,6,0.0
+San Francisco,2020-08-25,California,8984,77.0
+Cook,2020-08-25,Georgia,497,10.0
+Cook,2020-08-25,Illinois,122423,5022.0
+Cook,2020-08-25,Minnesota,6,0.0
+San Francisco,2020-08-26,California,9063,80.0
+Cook,2020-08-26,Georgia,500,10.0
+Cook,2020-08-26,Illinois,123172,5031.0
+Cook,2020-08-26,Minnesota,6,0.0
+San Francisco,2020-08-27,California,9152,82.0
+Cook,2020-08-27,Georgia,502,10.0
+Cook,2020-08-27,Illinois,123691,5039.0
+Cook,2020-08-27,Minnesota,6,0.0
+San Francisco,2020-08-28,California,9218,83.0
+Cook,2020-08-28,Georgia,505,10.0
+Cook,2020-08-28,Illinois,124573,5045.0
+Cook,2020-08-28,Minnesota,6,0.0
+San Francisco,2020-08-29,California,9352,83.0
+Cook,2020-08-29,Georgia,508,11.0
+Cook,2020-08-29,Illinois,125124,5046.0
+Cook,2020-08-29,Minnesota,6,0.0
+San Francisco,2020-08-30,California,9431,83.0
+Cook,2020-08-30,Georgia,508,11.0
+Cook,2020-08-30,Illinois,126003,5054.0
+Cook,2020-08-30,Minnesota,6,0.0
+San Francisco,2020-08-31,California,9497,83.0
+Cook,2020-08-31,Georgia,510,11.0
+Cook,2020-08-31,Illinois,126577,5058.0
+Cook,2020-08-31,Minnesota,6,0.0
+San Francisco,2020-09-01,California,9547,83.0
+Cook,2020-09-01,Georgia,510,11.0
+Cook,2020-09-01,Illinois,126992,5069.0
+Cook,2020-09-01,Minnesota,6,0.0
+San Francisco,2020-09-02,California,9620,84.0
+Cook,2020-09-02,Georgia,513,11.0
+Cook,2020-09-02,Illinois,127616,5073.0
+Cook,2020-09-02,Minnesota,6,0.0
+San Francisco,2020-09-03,California,9699,84.0
+Cook,2020-09-03,Georgia,515,11.0
+Cook,2020-09-03,Illinois,128012,5080.0
+Cook,2020-09-03,Minnesota,6,0.0
+San Francisco,2020-09-04,California,9758,84.0
+Cook,2020-09-04,Georgia,517,11.0
+Cook,2020-09-04,Illinois,129545,5086.0
+Cook,2020-09-04,Minnesota,6,0.0
+San Francisco,2020-09-05,California,9842,86.0
+Cook,2020-09-05,Georgia,521,11.0
+Cook,2020-09-05,Illinois,130616,5092.0
+Cook,2020-09-05,Minnesota,6,0.0
+San Francisco,2020-09-06,California,9918,86.0
+Cook,2020-09-06,Georgia,522,11.0
+Cook,2020-09-06,Illinois,131078,5094.0
+Cook,2020-09-06,Minnesota,6,0.0
+San Francisco,2020-09-07,California,9982,86.0
+Cook,2020-09-07,Georgia,523,11.0
+Cook,2020-09-07,Illinois,131622,5097.0
+Cook,2020-09-07,Minnesota,6,0.0
+San Francisco,2020-09-08,California,9982,86.0
+Cook,2020-09-08,Georgia,523,11.0
+Cook,2020-09-08,Illinois,132079,5098.0
+Cook,2020-09-08,Minnesota,6,0.0
+San Francisco,2020-09-09,California,10077,87.0
+Cook,2020-09-09,Georgia,526,12.0
+Cook,2020-09-09,Illinois,132401,5100.0
+Cook,2020-09-09,Minnesota,6,0.0
+San Francisco,2020-09-10,California,10123,88.0
+Cook,2020-09-10,Georgia,528,12.0
+Cook,2020-09-10,Illinois,132966,5103.0
+Cook,2020-09-10,Minnesota,6,0.0
+San Francisco,2020-09-11,California,10191,89.0
+Cook,2020-09-11,Georgia,529,12.0
+Cook,2020-09-11,Illinois,133686,5113.0
+Cook,2020-09-11,Minnesota,6,0.0
+San Francisco,2020-09-12,California,10266,90.0
+Cook,2020-09-12,Georgia,531,12.0
+Cook,2020-09-12,Illinois,134352,5128.0
+Cook,2020-09-12,Minnesota,6,0.0
+San Francisco,2020-09-13,California,10305,91.0
+Cook,2020-09-13,Georgia,531,12.0
+Cook,2020-09-13,Illinois,134801,5133.0
+Cook,2020-09-13,Minnesota,6,0.0
+San Francisco,2020-09-14,California,10381,91.0
+Cook,2020-09-14,Georgia,533,12.0
+Cook,2020-09-14,Illinois,135274,5134.0
+Cook,2020-09-14,Minnesota,6,0.0
+San Francisco,2020-09-15,California,10433,91.0
+Cook,2020-09-15,Georgia,534,12.0
+Cook,2020-09-15,Illinois,135690,5137.0
+Cook,2020-09-15,Minnesota,6,0.0
+San Francisco,2020-09-16,California,10493,91.0
+Cook,2020-09-16,Georgia,534,12.0
+Cook,2020-09-16,Illinois,136246,5146.0
+Cook,2020-09-16,Minnesota,6,0.0
+San Francisco,2020-09-17,California,10572,91.0
+Cook,2020-09-17,Georgia,536,12.0
+Cook,2020-09-17,Illinois,136993,5147.0
+Cook,2020-09-17,Minnesota,6,0.0
+San Francisco,2020-09-18,California,10643,96.0
+Cook,2020-09-18,Georgia,538,12.0
+Cook,2020-09-18,Illinois,137580,5150.0
+Cook,2020-09-18,Minnesota,6,0.0
+San Francisco,2020-09-19,California,10699,97.0
+Cook,2020-09-19,Georgia,540,12.0
+Cook,2020-09-19,Illinois,138576,5157.0
+Cook,2020-09-19,Minnesota,6,0.0
+San Francisco,2020-09-20,California,10748,99.0
+Cook,2020-09-20,Georgia,542,12.0
+Cook,2020-09-20,Illinois,139088,5162.0
+Cook,2020-09-20,Minnesota,6,0.0
+San Francisco,2020-09-21,California,10810,99.0
+Cook,2020-09-21,Georgia,542,12.0
+Cook,2020-09-21,Illinois,139597,5167.0
+Cook,2020-09-21,Minnesota,6,0.0
+San Francisco,2020-09-22,California,10868,99.0
+Cook,2020-09-22,Georgia,542,12.0
+Cook,2020-09-22,Illinois,140078,5172.0
+Cook,2020-09-22,Minnesota,6,0.0
+San Francisco,2020-09-23,California,10904,99.0
+Cook,2020-09-23,Georgia,544,13.0
+Cook,2020-09-23,Illinois,140623,5180.0
+Cook,2020-09-23,Minnesota,6,0.0
+San Francisco,2020-09-24,California,10949,99.0
+Cook,2020-09-24,Georgia,546,13.0
+Cook,2020-09-24,Illinois,141430,5187.0
+Cook,2020-09-24,Minnesota,6,0.0
+San Francisco,2020-09-25,California,11041,99.0
+Cook,2020-09-25,Georgia,548,13.0
+Cook,2020-09-25,Illinois,142215,5194.0
+Cook,2020-09-25,Minnesota,6,0.0
+San Francisco,2020-09-26,California,11079,101.0
+Cook,2020-09-26,Georgia,549,13.0
+Cook,2020-09-26,Illinois,143084,5203.0
+Cook,2020-09-26,Minnesota,6,0.0
+San Francisco,2020-09-27,California,11146,101.0
+Cook,2020-09-27,Georgia,549,13.0
+Cook,2020-09-27,Illinois,143634,5210.0
+Cook,2020-09-27,Minnesota,6,0.0
+San Francisco,2020-09-28,California,11198,101.0
+Cook,2020-09-28,Georgia,549,13.0
+Cook,2020-09-28,Illinois,144315,5217.0
+Cook,2020-09-28,Minnesota,6,0.0
+San Francisco,2020-09-29,California,11241,101.0
+Cook,2020-09-29,Georgia,549,13.0
+Cook,2020-09-29,Illinois,144697,5221.0
+Cook,2020-09-29,Minnesota,7,0.0
+San Francisco,2020-09-30,California,11278,104.0
+Cook,2020-09-30,Georgia,551,13.0
+Cook,2020-09-30,Illinois,145462,5225.0
+Cook,2020-09-30,Minnesota,7,0.0
+San Francisco,2020-10-01,California,11335,106.0
+Cook,2020-10-01,Georgia,553,13.0
+Cook,2020-10-01,Illinois,146152,5229.0
+Cook,2020-10-01,Minnesota,7,0.0
+San Francisco,2020-10-02,California,11363,107.0
+Cook,2020-10-02,Georgia,554,14.0
+Cook,2020-10-02,Illinois,146917,5239.0
+Cook,2020-10-02,Minnesota,7,0.0
+San Francisco,2020-10-03,California,11417,107.0
+Cook,2020-10-03,Georgia,555,14.0
+Cook,2020-10-03,Illinois,147841,5245.0
+Cook,2020-10-03,Minnesota,7,0.0
+San Francisco,2020-10-04,California,11478,108.0
+Cook,2020-10-04,Georgia,555,14.0
+Cook,2020-10-04,Illinois,148381,5256.0
+Cook,2020-10-04,Minnesota,7,0.0
+San Francisco,2020-10-05,California,11483,108.0
+Cook,2020-10-05,Georgia,599,14.0
+Cook,2020-10-05,Illinois,149127,5260.0
+Cook,2020-10-05,Minnesota,7,0.0
+San Francisco,2020-10-06,California,11508,111.0
+Cook,2020-10-06,Georgia,599,14.0
+Cook,2020-10-06,Illinois,149588,5268.0
+Cook,2020-10-06,Minnesota,7,0.0
+San Francisco,2020-10-07,California,11536,114.0
+Cook,2020-10-07,Georgia,601,14.0
+Cook,2020-10-07,Illinois,150400,5273.0
+Cook,2020-10-07,Minnesota,7,0.0
+San Francisco,2020-10-08,California,11554,115.0
+Cook,2020-10-08,Georgia,602,14.0
+Cook,2020-10-08,Illinois,151474,5280.0
+Cook,2020-10-08,Minnesota,7,0.0
+San Francisco,2020-10-09,California,11611,121.0
+Cook,2020-10-09,Georgia,605,14.0
+Cook,2020-10-09,Illinois,152387,5289.0
+Cook,2020-10-09,Minnesota,8,0.0
+San Francisco,2020-10-10,California,11623,123.0
+Cook,2020-10-10,Georgia,605,14.0
+Cook,2020-10-10,Illinois,153514,5298.0
+Cook,2020-10-10,Minnesota,9,0.0
+San Francisco,2020-10-11,California,11666,123.0
+Cook,2020-10-11,Georgia,606,14.0
+Cook,2020-10-11,Illinois,154519,5300.0
+Cook,2020-10-11,Minnesota,9,0.0
+San Francisco,2020-10-12,California,11669,123.0
+Cook,2020-10-12,Georgia,611,15.0
+Cook,2020-10-12,Illinois,155567,5304.0
+Cook,2020-10-12,Minnesota,10,0.0
+San Francisco,2020-10-13,California,11694,123.0
+Cook,2020-10-13,Georgia,612,15.0
+Cook,2020-10-13,Illinois,156726,5315.0
+Cook,2020-10-13,Minnesota,9,0.0
+San Francisco,2020-10-14,California,11715,123.0
+Cook,2020-10-14,Georgia,614,15.0
+Cook,2020-10-14,Illinois,157573,5321.0
+Cook,2020-10-14,Minnesota,8,0.0
+San Francisco,2020-10-15,California,11786,126.0
+Cook,2020-10-15,Georgia,617,15.0
+Cook,2020-10-15,Illinois,159035,5332.0
+Cook,2020-10-15,Minnesota,8,0.0
+San Francisco,2020-10-16,California,11811,131.0
+Cook,2020-10-16,Georgia,617,15.0
+Cook,2020-10-16,Illinois,160645,5340.0
+Cook,2020-10-16,Minnesota,8,0.0
+San Francisco,2020-10-17,California,11843,133.0
+Cook,2020-10-17,Georgia,619,15.0
+Cook,2020-10-17,Illinois,162220,5350.0
+Cook,2020-10-17,Minnesota,9,0.0
+San Francisco,2020-10-18,California,11880,133.0
+Cook,2020-10-18,Georgia,619,15.0
+Cook,2020-10-18,Illinois,163912,5357.0
+Cook,2020-10-18,Minnesota,11,0.0
+San Francisco,2020-10-19,California,11904,133.0
+Cook,2020-10-19,Georgia,620,16.0
+Cook,2020-10-19,Illinois,165198,5364.0
+Cook,2020-10-19,Minnesota,11,0.0
+San Francisco,2020-10-20,California,11940,133.0
+Cook,2020-10-20,Georgia,622,16.0
+Cook,2020-10-20,Illinois,166457,5369.0
+Cook,2020-10-20,Minnesota,11,0.0
+San Francisco,2020-10-21,California,12016,137.0
+Cook,2020-10-21,Georgia,624,16.0
+Cook,2020-10-21,Illinois,168139,5382.0
+Cook,2020-10-21,Minnesota,11,0.0
+San Francisco,2020-10-22,California,12003,138.0
+Cook,2020-10-22,Georgia,627,16.0
+Cook,2020-10-22,Illinois,170039,5390.0
+Cook,2020-10-22,Minnesota,11,0.0
+San Francisco,2020-10-23,California,12035,140.0
+Cook,2020-10-23,Georgia,630,16.0
+Cook,2020-10-23,Illinois,171437,5392.0
+Cook,2020-10-23,Minnesota,12,0.0
+San Francisco,2020-10-24,California,12072,140.0
+Cook,2020-10-24,Georgia,630,16.0
+Cook,2020-10-24,Illinois,173817,5409.0
+Cook,2020-10-24,Minnesota,13,0.0
+San Francisco,2020-10-25,California,12106,140.0
+Cook,2020-10-25,Georgia,631,16.0
+Cook,2020-10-25,Illinois,175586,5421.0
+Cook,2020-10-25,Minnesota,16,0.0
+San Francisco,2020-10-26,California,12155,140.0
+Cook,2020-10-26,Georgia,634,16.0
+Cook,2020-10-26,Illinois,177465,5433.0
+Cook,2020-10-26,Minnesota,17,0.0
+San Francisco,2020-10-27,California,12192,140.0
+Cook,2020-10-27,Georgia,634,16.0
+Cook,2020-10-27,Illinois,178832,5439.0
+Cook,2020-10-27,Minnesota,17,0.0
+San Francisco,2020-10-28,California,12244,145.0
+Cook,2020-10-28,Georgia,636,16.0
+Cook,2020-10-28,Illinois,181108,5450.0
+Cook,2020-10-28,Minnesota,18,0.0
+San Francisco,2020-10-29,California,12280,145.0
+Cook,2020-10-29,Georgia,646,16.0
+Cook,2020-10-29,Illinois,183649,5463.0
+Cook,2020-10-29,Minnesota,19,0.0
+San Francisco,2020-10-30,California,12323,147.0
+Cook,2020-10-30,Georgia,650,16.0
+Cook,2020-10-30,Illinois,186405,5469.0
+Cook,2020-10-30,Minnesota,20,0.0
+San Francisco,2020-10-31,California,12402,148.0
+Cook,2020-10-31,Georgia,661,16.0
+Cook,2020-10-31,Illinois,186405,5469.0
+Cook,2020-10-31,Minnesota,22,0.0
+San Francisco,2020-11-01,California,12457,148.0
+Cook,2020-11-01,Georgia,666,16.0
+Cook,2020-11-01,Illinois,193102,5500.0
+Cook,2020-11-01,Minnesota,24,0.0
+San Francisco,2020-11-02,California,12511,148.0
+Cook,2020-11-02,Georgia,675,16.0
+Cook,2020-11-02,Illinois,195740,5510.0
+Cook,2020-11-02,Minnesota,25,0.0
+San Francisco,2020-11-03,California,12557,149.0
+Cook,2020-11-03,Georgia,682,16.0
+Cook,2020-11-03,Illinois,198184,5517.0
+Cook,2020-11-03,Minnesota,27,0.0
+San Francisco,2020-11-04,California,12602,149.0
+Cook,2020-11-04,Georgia,692,17.0
+Cook,2020-11-04,Illinois,201176,5541.0
+Cook,2020-11-04,Minnesota,30,0.0
+San Francisco,2020-11-05,California,12669,149.0
+Cook,2020-11-05,Georgia,700,17.0
+Cook,2020-11-05,Illinois,204977,5574.0
+Cook,2020-11-05,Minnesota,32,0.0
+San Francisco,2020-11-06,California,12756,151.0
+Cook,2020-11-06,Georgia,711,17.0
+Cook,2020-11-06,Illinois,210266,5742.0
+Cook,2020-11-06,Minnesota,32,0.0
+San Francisco,2020-11-07,California,12863,151.0
+Cook,2020-11-07,Georgia,718,17.0
+Cook,2020-11-07,Illinois,214924,5770.0
+Cook,2020-11-07,Minnesota,33,0.0
+San Francisco,2020-11-08,California,12983,151.0
+Cook,2020-11-08,Georgia,722,17.0
+Cook,2020-11-08,Illinois,218662,5798.0
+Cook,2020-11-08,Minnesota,33,0.0
+San Francisco,2020-11-09,California,13084,151.0
+Cook,2020-11-09,Georgia,725,17.0
+Cook,2020-11-09,Illinois,223110,5808.0
+Cook,2020-11-09,Minnesota,36,0.0
+San Francisco,2020-11-10,California,13142,151.0
+Cook,2020-11-10,Georgia,732,17.0
+Cook,2020-11-10,Illinois,227425,5828.0
+Cook,2020-11-10,Minnesota,36,0.0
+San Francisco,2020-11-11,California,13213,153.0
+Cook,2020-11-11,Georgia,745,17.0
+Cook,2020-11-11,Illinois,231462,5881.0
+Cook,2020-11-11,Minnesota,36,0.0
+San Francisco,2020-11-12,California,13311,153.0
+Cook,2020-11-12,Georgia,755,17.0
+Cook,2020-11-12,Illinois,236717,5889.0
+Cook,2020-11-12,Minnesota,38,0.0
+San Francisco,2020-11-13,California,13407,153.0
+Cook,2020-11-13,Georgia,760,17.0
+Cook,2020-11-13,Illinois,242662,5895.0
+Cook,2020-11-13,Minnesota,39,0.0
+San Francisco,2020-11-14,California,13519,155.0
+Cook,2020-11-14,Georgia,774,17.0
+Cook,2020-11-14,Illinois,246392,5976.0
+Cook,2020-11-14,Minnesota,40,0.0
+San Francisco,2020-11-15,California,13668,156.0
+Cook,2020-11-15,Georgia,777,17.0
+Cook,2020-11-15,Illinois,251101,5996.0
+Cook,2020-11-15,Minnesota,43,0.0
+San Francisco,2020-11-16,California,13760,156.0
+Cook,2020-11-16,Georgia,778,17.0
+Cook,2020-11-16,Illinois,255608,6016.0
+Cook,2020-11-16,Minnesota,44,0.0
+San Francisco,2020-11-17,California,13850,156.0
+Cook,2020-11-17,Georgia,793,17.0
+Cook,2020-11-17,Illinois,260004,6035.0
+Cook,2020-11-17,Minnesota,46,0.0
+San Francisco,2020-11-18,California,13955,156.0
+Cook,2020-11-18,Georgia,802,17.0
+Cook,2020-11-18,Illinois,262429,6120.0
+Cook,2020-11-18,Minnesota,48,0.0
+San Francisco,2020-11-19,California,14060,156.0
+Cook,2020-11-19,Georgia,812,17.0
+Cook,2020-11-19,Illinois,268284,6148.0
+Cook,2020-11-19,Minnesota,50,0.0
+San Francisco,2020-11-20,California,14254,156.0
+Cook,2020-11-20,Georgia,828,17.0
+Cook,2020-11-20,Illinois,272733,6201.0
+Cook,2020-11-20,Minnesota,54,0.0
+San Francisco,2020-11-21,California,14330,158.0
+Cook,2020-11-21,Georgia,833,17.0
+Cook,2020-11-21,Illinois,277026,6261.0
+Cook,2020-11-21,Minnesota,54,0.0
+San Francisco,2020-11-22,California,14448,158.0
+Cook,2020-11-22,Georgia,836,17.0
+Cook,2020-11-22,Illinois,280896,6303.0
+Cook,2020-11-22,Minnesota,57,0.0
+San Francisco,2020-11-23,California,14545,158.0
+Cook,2020-11-23,Georgia,839,17.0
+Cook,2020-11-23,Illinois,284217,6339.0
+Cook,2020-11-23,Minnesota,58,0.0
+San Francisco,2020-11-24,California,14665,158.0
+Cook,2020-11-24,Georgia,851,17.0
+Cook,2020-11-24,Illinois,287124,6389.0
+Cook,2020-11-24,Minnesota,60,0.0
+San Francisco,2020-11-25,California,14877,160.0
+Cook,2020-11-25,Georgia,868,17.0
+Cook,2020-11-25,Illinois,291312,6414.0
+Cook,2020-11-25,Minnesota,60,0.0
+San Francisco,2020-11-26,California,15056,160.0
+Cook,2020-11-26,Georgia,878,17.0
+Cook,2020-11-26,Illinois,296129,6450.0
+Cook,2020-11-26,Minnesota,60,0.0
+San Francisco,2020-11-27,California,15159,160.0
+Cook,2020-11-27,Georgia,880,18.0
+Cook,2020-11-27,Illinois,298870,6476.0
+Cook,2020-11-27,Minnesota,63,0.0
+San Francisco,2020-11-28,California,15380,160.0
+Cook,2020-11-28,Georgia,890,18.0
+Cook,2020-11-28,Illinois,301582,6568.0
+Cook,2020-11-28,Minnesota,66,0.0
+San Francisco,2020-11-29,California,15453,160.0
+Cook,2020-11-29,Georgia,890,18.0
+Cook,2020-11-29,Illinois,304220,6595.0
+Cook,2020-11-29,Minnesota,72,0.0
+San Francisco,2020-11-30,California,15574,160.0
+Cook,2020-11-30,Georgia,890,18.0
+Cook,2020-11-30,Illinois,306369,6669.0
+Cook,2020-11-30,Minnesota,77,0.0
+San Francisco,2020-12-01,California,15642,160.0
+Cook,2020-12-01,Georgia,910,20.0
+Cook,2020-12-01,Illinois,310722,6695.0
+Cook,2020-12-01,Minnesota,78,0.0
+San Francisco,2020-12-02,California,15800,160.0
+Cook,2020-12-02,Georgia,925,20.0
+Cook,2020-12-02,Illinois,314134,6768.0
+Cook,2020-12-02,Minnesota,79,0.0
+San Francisco,2020-12-03,California,16061,161.0
+Cook,2020-12-03,Georgia,940,20.0
+Cook,2020-12-03,Illinois,318324,6823.0
+Cook,2020-12-03,Minnesota,80,0.0
+San Francisco,2020-12-04,California,16239,162.0
+Cook,2020-12-04,Georgia,957,20.0
+Cook,2020-12-04,Illinois,322122,6852.0
+Cook,2020-12-04,Minnesota,83,0.0
+San Francisco,2020-12-05,California,16502,164.0
+Cook,2020-12-05,Georgia,962,20.0
+Cook,2020-12-05,Illinois,325813,6922.0
+Cook,2020-12-05,Minnesota,84,0.0
+San Francisco,2020-12-06,California,16789,164.0
+Cook,2020-12-06,Georgia,963,20.0
+Cook,2020-12-06,Illinois,329003,6951.0
+Cook,2020-12-06,Minnesota,86,0.0
+San Francisco,2020-12-07,California,17110,164.0
+Cook,2020-12-07,Georgia,963,20.0
+Cook,2020-12-07,Illinois,332693,7018.0
+Cook,2020-12-07,Minnesota,88,0.0
+San Francisco,2020-12-08,California,17223,164.0
+Cook,2020-12-08,Georgia,975,20.0
+Cook,2020-12-08,Illinois,335204,7051.0
+Cook,2020-12-08,Minnesota,89,0.0
+San Francisco,2020-12-09,California,17387,164.0
+Cook,2020-12-09,Georgia,988,20.0
+Cook,2020-12-09,Illinois,338093,7134.0
+Cook,2020-12-09,Minnesota,93,0.0
+San Francisco,2020-12-10,California,17631,165.0
+Cook,2020-12-10,Georgia,995,20.0
+Cook,2020-12-10,Illinois,342654,7203.0
+Cook,2020-12-10,Minnesota,93,0.0
+San Francisco,2020-12-11,California,17948,167.0
+Cook,2020-12-11,Georgia,1006,20.0
+Cook,2020-12-11,Illinois,346004,7282.0
+Cook,2020-12-11,Minnesota,94,0.0
+San Francisco,2020-12-12,California,18249,167.0
+Cook,2020-12-12,Georgia,1014,20.0
+Cook,2020-12-12,Illinois,349461,7319.0
+Cook,2020-12-12,Minnesota,94,0.0
+San Francisco,2020-12-13,California,18416,167.0
+Cook,2020-12-13,Georgia,1015,20.0
+Cook,2020-12-13,Illinois,352409,7340.0
+Cook,2020-12-13,Minnesota,97,0.0
+San Francisco,2020-12-14,California,18689,167.0
+Cook,2020-12-14,Georgia,1015,20.0
+Cook,2020-12-14,Illinois,355467,7440.0
+Cook,2020-12-14,Minnesota,97,0.0
+San Francisco,2020-12-15,California,18907,167.0
+Cook,2020-12-15,Georgia,1023,21.0
+Cook,2020-12-15,Illinois,358014,7458.0
+Cook,2020-12-15,Minnesota,97,0.0
+San Francisco,2020-12-16,California,19286,172.0
+Cook,2020-12-16,Georgia,1044,22.0
+Cook,2020-12-16,Illinois,360117,7505.0
+Cook,2020-12-16,Minnesota,99,0.0
+San Francisco,2020-12-17,California,19627,172.0
+Cook,2020-12-17,Georgia,1057,22.0
+Cook,2020-12-17,Illinois,363261,7574.0
+Cook,2020-12-17,Minnesota,99,0.0
+San Francisco,2020-12-18,California,19942,173.0
+Cook,2020-12-18,Georgia,1080,22.0
+Cook,2020-12-18,Illinois,366020,7654.0
+Cook,2020-12-18,Minnesota,100,0.0
+San Francisco,2020-12-19,California,20318,176.0
+Cook,2020-12-19,Georgia,1101,22.0
+Cook,2020-12-19,Illinois,368824,7681.0
+Cook,2020-12-19,Minnesota,101,0.0
+San Francisco,2020-12-20,California,20646,176.0
+Cook,2020-12-20,Georgia,1113,22.0
+Cook,2020-12-20,Illinois,371088,7724.0
+Cook,2020-12-20,Minnesota,100,0.0
+San Francisco,2020-12-21,California,20940,176.0
+Cook,2020-12-21,Georgia,1119,22.0
+Cook,2020-12-21,Illinois,373008,7802.0
+Cook,2020-12-21,Minnesota,100,0.0
+San Francisco,2020-12-22,California,21089,176.0
+Cook,2020-12-22,Georgia,1126,22.0
+Cook,2020-12-22,Illinois,375360,7853.0
+Cook,2020-12-22,Minnesota,101,0.0
+San Francisco,2020-12-23,California,21235,178.0
+Cook,2020-12-23,Georgia,1146,22.0
+Cook,2020-12-23,Illinois,377709,7908.0
+Cook,2020-12-23,Minnesota,102,0.0
+San Francisco,2020-12-24,California,21501,178.0
+Cook,2020-12-24,Georgia,1158,22.0
+Cook,2020-12-24,Illinois,380096,7954.0
+Cook,2020-12-24,Minnesota,102,0.0
+San Francisco,2020-12-25,California,21833,181.0
+Cook,2020-12-25,Georgia,1165,24.0
+Cook,2020-12-25,Illinois,382213,8031.0
+Cook,2020-12-25,Minnesota,102,0.0
+San Francisco,2020-12-26,California,22133,181.0
+Cook,2020-12-26,Georgia,1172,25.0
+Cook,2020-12-26,Illinois,383480,8060.0
+Cook,2020-12-26,Minnesota,102,0.0
+San Francisco,2020-12-27,California,22322,182.0
+Cook,2020-12-27,Georgia,1181,25.0
+Cook,2020-12-27,Illinois,384931,8114.0
+Cook,2020-12-27,Minnesota,105,0.0
+San Francisco,2020-12-28,California,22517,182.0
+Cook,2020-12-28,Georgia,1194,25.0
+Cook,2020-12-28,Illinois,386469,8137.0
+Cook,2020-12-28,Minnesota,103,0.0
+San Francisco,2020-12-29,California,22729,182.0
+Cook,2020-12-29,Georgia,1214,25.0
+Cook,2020-12-29,Illinois,388386,8169.0
+Cook,2020-12-29,Minnesota,104,0.0
+San Francisco,2020-12-30,California,22999,184.0
+Cook,2020-12-30,Georgia,1231,25.0
+Cook,2020-12-30,Illinois,390927,8246.0
+Cook,2020-12-30,Minnesota,104,0.0
+San Francisco,2020-12-31,California,23227,186.0
+Cook,2020-12-31,Georgia,1261,25.0
+Cook,2020-12-31,Illinois,393652,8285.0
+Cook,2020-12-31,Minnesota,104,0.0
+San Francisco,2021-01-01,California,23743,189.0
+Cook,2021-01-01,Georgia,1289,25.0
+Cook,2021-01-01,Illinois,393652,8285.0
+Cook,2021-01-01,Minnesota,104,0.0
+San Francisco,2021-01-02,California,24148,194.0
+Cook,2021-01-02,Georgia,1301,25.0
+Cook,2021-01-02,Illinois,397942,8359.0
+Cook,2021-01-02,Minnesota,104,0.0
+San Francisco,2021-01-03,California,24417,194.0
+Cook,2021-01-03,Georgia,1306,25.0
+Cook,2021-01-03,Illinois,399609,8436.0
+Cook,2021-01-03,Minnesota,106,0.0
+San Francisco,2021-01-04,California,24591,194.0
+Cook,2021-01-04,Georgia,1318,25.0
+Cook,2021-01-04,Illinois,401457,8483.0
+Cook,2021-01-04,Minnesota,108,0.0
+San Francisco,2021-01-05,California,24756,198.0
+Cook,2021-01-05,Georgia,1340,25.0
+Cook,2021-01-05,Illinois,403987,8523.0
+Cook,2021-01-05,Minnesota,108,0.0
+San Francisco,2021-01-06,California,24992,203.0
+Cook,2021-01-06,Georgia,1353,26.0
+Cook,2021-01-06,Illinois,406674,8574.0
+Cook,2021-01-06,Minnesota,109,0.0
+San Francisco,2021-01-07,California,25427,205.0
+Cook,2021-01-07,Georgia,1367,27.0
+Cook,2021-01-07,Illinois,410005,8630.0
+Cook,2021-01-07,Minnesota,109,0.0
+San Francisco,2021-01-08,California,25888,218.0
+Cook,2021-01-08,Georgia,1374,27.0
+Cook,2021-01-08,Illinois,413504,8684.0
+Cook,2021-01-08,Minnesota,109,0.0
+San Francisco,2021-01-09,California,26381,233.0
+Cook,2021-01-09,Georgia,1393,28.0
+Cook,2021-01-09,Illinois,415991,8701.0
+Cook,2021-01-09,Minnesota,109,0.0
+San Francisco,2021-01-10,California,26711,233.0
+Cook,2021-01-10,Georgia,1397,28.0
+Cook,2021-01-10,Illinois,417790,8760.0
+Cook,2021-01-10,Minnesota,111,0.0
+San Francisco,2021-01-11,California,27057,234.0
+Cook,2021-01-11,Georgia,1402,29.0
+Cook,2021-01-11,Illinois,419471,8811.0
+Cook,2021-01-11,Minnesota,111,0.0
+San Francisco,2021-01-12,California,27267,235.0
+Cook,2021-01-12,Georgia,1421,29.0
+Cook,2021-01-12,Illinois,422159,8841.0
+Cook,2021-01-12,Minnesota,111,0.0
+San Francisco,2021-01-13,California,27534,235.0
+Cook,2021-01-13,Georgia,1438,29.0
+Cook,2021-01-13,Illinois,424217,8870.0
+Cook,2021-01-13,Minnesota,112,0.0
+San Francisco,2021-01-14,California,27866,237.0
+Cook,2021-01-14,Georgia,1448,31.0
+Cook,2021-01-14,Illinois,426658,8889.0
+Cook,2021-01-14,Minnesota,113,0.0
+San Francisco,2021-01-15,California,28203,241.0
+Cook,2021-01-15,Georgia,1465,31.0
+Cook,2021-01-15,Illinois,429270,8939.0
+Cook,2021-01-15,Minnesota,113,0.0
+San Francisco,2021-01-16,California,28577,254.0
+Cook,2021-01-16,Georgia,1475,31.0
+Cook,2021-01-16,Illinois,431385,8980.0
+Cook,2021-01-16,Minnesota,113,0.0
+San Francisco,2021-01-17,California,28856,254.0
+Cook,2021-01-17,Georgia,1481,31.0
+Cook,2021-01-17,Illinois,433089,9005.0
+Cook,2021-01-17,Minnesota,114,0.0
+San Francisco,2021-01-18,California,29142,262.0
+Cook,2021-01-18,Georgia,1486,31.0
+Cook,2021-01-18,Illinois,434341,9046.0
+Cook,2021-01-18,Minnesota,114,0.0
+San Francisco,2021-01-19,California,29324,262.0
+Cook,2021-01-19,Georgia,1495,31.0
+Cook,2021-01-19,Illinois,435888,9065.0
+Cook,2021-01-19,Minnesota,114,0.0
+San Francisco,2021-01-20,California,29505,266.0
+Cook,2021-01-20,Georgia,1508,33.0
+Cook,2021-01-20,Illinois,437465,9098.0
+Cook,2021-01-20,Minnesota,115,0.0
+San Francisco,2021-01-21,California,29668,274.0
+Cook,2021-01-21,Georgia,1517,33.0
+Cook,2021-01-21,Illinois,439118,9148.0
+Cook,2021-01-21,Minnesota,115,0.0
+San Francisco,2021-01-22,California,29804,275.0
+Cook,2021-01-22,Georgia,1527,33.0
+Cook,2021-01-22,Illinois,441657,9197.0
+Cook,2021-01-22,Minnesota,115,0.0
+San Francisco,2021-01-23,California,30030,278.0
+Cook,2021-01-23,Georgia,1529,33.0
+Cook,2021-01-23,Illinois,443600,9227.0
+Cook,2021-01-23,Minnesota,115,0.0
+San Francisco,2021-01-24,California,30311,293.0
+Cook,2021-01-24,Georgia,1537,33.0
+Cook,2021-01-24,Illinois,444927,9243.0
+Cook,2021-01-24,Minnesota,116,0.0
+San Francisco,2021-01-25,California,30562,293.0
+Cook,2021-01-25,Georgia,1539,33.0
+Cook,2021-01-25,Illinois,446035,9268.0
+Cook,2021-01-25,Minnesota,116,0.0
+San Francisco,2021-01-26,California,30737,293.0
+Cook,2021-01-26,Georgia,1558,33.0
+Cook,2021-01-26,Illinois,447295,9280.0
+Cook,2021-01-26,Minnesota,116,0.0
+San Francisco,2021-01-27,California,30877,297.0
+Cook,2021-01-27,Georgia,1565,33.0
+Cook,2021-01-27,Illinois,448546,9305.0
+Cook,2021-01-27,Minnesota,116,0.0
+San Francisco,2021-01-28,California,31085,308.0
+Cook,2021-01-28,Georgia,1574,33.0
+Cook,2021-01-28,Illinois,450116,9363.0
+Cook,2021-01-28,Minnesota,116,0.0
+San Francisco,2021-01-29,California,31196,317.0
+Cook,2021-01-29,Georgia,1583,34.0
+Cook,2021-01-29,Illinois,451581,9374.0
+Cook,2021-01-29,Minnesota,116,0.0
+San Francisco,2021-01-30,California,31297,323.0
+Cook,2021-01-30,Georgia,1588,35.0
+Cook,2021-01-30,Illinois,452742,9374.0
+Cook,2021-01-30,Minnesota,117,0.0
+San Francisco,2021-01-31,California,31430,324.0
+Cook,2021-01-31,Georgia,1591,35.0
+Cook,2021-01-31,Illinois,453634,9374.0
+Cook,2021-01-31,Minnesota,117,0.0
+San Francisco,2021-02-01,California,31566,324.0
+Cook,2021-02-01,Georgia,1596,35.0
+Cook,2021-02-01,Illinois,454485,9433.0
+Cook,2021-02-01,Minnesota,117,0.0
+San Francisco,2021-02-02,California,31706,324.0
+Cook,2021-02-02,Georgia,1603,36.0
+Cook,2021-02-02,Illinois,455138,9456.0
+Cook,2021-02-02,Minnesota,116,0.0
+San Francisco,2021-02-03,California,31791,328.0
+Cook,2021-02-03,Georgia,1607,36.0
+Cook,2021-02-03,Illinois,456144,9481.0
+Cook,2021-02-03,Minnesota,116,0.0
+San Francisco,2021-02-04,California,31986,328.0
+Cook,2021-02-04,Georgia,1609,36.0
+Cook,2021-02-04,Illinois,457285,9501.0
+Cook,2021-02-04,Minnesota,116,0.0
+San Francisco,2021-02-05,California,32119,345.0
+Cook,2021-02-05,Georgia,1614,36.0
+Cook,2021-02-05,Illinois,458600,9532.0
+Cook,2021-02-05,Minnesota,116,0.0
+San Francisco,2021-02-06,California,32232,345.0
+Cook,2021-02-06,Georgia,1615,36.0
+Cook,2021-02-06,Illinois,459740,9551.0
+Cook,2021-02-06,Minnesota,116,0.0
+San Francisco,2021-02-07,California,32440,346.0
+Cook,2021-02-07,Georgia,1619,36.0
+Cook,2021-02-07,Illinois,460554,9561.0
+Cook,2021-02-07,Minnesota,116,0.0
+San Francisco,2021-02-08,California,32612,346.0
+Cook,2021-02-08,Georgia,1623,36.0
+Cook,2021-02-08,Illinois,461118,9579.0
+Cook,2021-02-08,Minnesota,116,0.0
+San Francisco,2021-02-09,California,32682,346.0
+Cook,2021-02-09,Georgia,1634,36.0
+Cook,2021-02-09,Illinois,461757,9585.0
+Cook,2021-02-09,Minnesota,117,0.0
+San Francisco,2021-02-10,California,32785,351.0
+Cook,2021-02-10,Georgia,1636,37.0
+Cook,2021-02-10,Illinois,462667,9601.0
+Cook,2021-02-10,Minnesota,117,0.0
+San Francisco,2021-02-11,California,32958,351.0
+Cook,2021-02-11,Georgia,1643,37.0
+Cook,2021-02-11,Illinois,463581,9655.0
+Cook,2021-02-11,Minnesota,117,0.0
+San Francisco,2021-02-12,California,33079,359.0
+Cook,2021-02-12,Georgia,1644,37.0
+Cook,2021-02-12,Illinois,464573,9669.0
+Cook,2021-02-12,Minnesota,118,0.0
+San Francisco,2021-02-13,California,33182,366.0
+Cook,2021-02-13,Georgia,1650,37.0
+Cook,2021-02-13,Illinois,465341,9675.0
+Cook,2021-02-13,Minnesota,119,0.0
+San Francisco,2021-02-14,California,33294,366.0
+Cook,2021-02-14,Georgia,1650,37.0
+Cook,2021-02-14,Illinois,465914,9690.0
+Cook,2021-02-14,Minnesota,118,0.0
+San Francisco,2021-02-15,California,33377,366.0
+Cook,2021-02-15,Georgia,1653,37.0
+Cook,2021-02-15,Illinois,466422,9714.0
+Cook,2021-02-15,Minnesota,118,0.0
+San Francisco,2021-02-16,California,33457,372.0
+Cook,2021-02-16,Georgia,1660,37.0
+Cook,2021-02-16,Illinois,466870,9738.0
+Cook,2021-02-16,Minnesota,118,0.0
+San Francisco,2021-02-17,California,33494,376.0
+Cook,2021-02-17,Georgia,1663,37.0
+Cook,2021-02-17,Illinois,467424,9747.0
+Cook,2021-02-17,Minnesota,119,0.0
+San Francisco,2021-02-18,California,33561,376.0
+Cook,2021-02-18,Georgia,1670,37.0
+Cook,2021-02-18,Illinois,467986,9775.0
+Cook,2021-02-18,Minnesota,118,0.0
+San Francisco,2021-02-19,California,33653,387.0
+Cook,2021-02-19,Georgia,1670,37.0
+Cook,2021-02-19,Illinois,468690,9790.0
+Cook,2021-02-19,Minnesota,119,0.0
+San Francisco,2021-02-20,California,33749,394.0
+Cook,2021-02-20,Georgia,1674,37.0
+Cook,2021-02-20,Illinois,469379,9800.0
+Cook,2021-02-20,Minnesota,119,0.0
+San Francisco,2021-02-21,California,33823,394.0
+Cook,2021-02-21,Georgia,1675,37.0
+Cook,2021-02-21,Illinois,469935,9809.0
+Cook,2021-02-21,Minnesota,119,0.0
+San Francisco,2021-02-22,California,33894,394.0
+Cook,2021-02-22,Georgia,1676,37.0
+Cook,2021-02-22,Illinois,470391,9833.0
+Cook,2021-02-22,Minnesota,119,0.0
+San Francisco,2021-02-23,California,33950,394.0
+Cook,2021-02-23,Georgia,1684,37.0
+Cook,2021-02-23,Illinois,470933,9846.0
+Cook,2021-02-23,Minnesota,119,0.0
+San Francisco,2021-02-24,California,33997,394.0
+Cook,2021-02-24,Georgia,1693,39.0
+Cook,2021-02-24,Illinois,471685,9862.0
+Cook,2021-02-24,Minnesota,119,0.0
+San Francisco,2021-02-25,California,34064,398.0
+Cook,2021-02-25,Georgia,1695,39.0
+Cook,2021-02-25,Illinois,472206,9872.0
+Cook,2021-02-25,Minnesota,119,0.0
+San Francisco,2021-02-26,California,34141,410.0
+Cook,2021-02-26,Georgia,1704,39.0
+Cook,2021-02-26,Illinois,473194,9894.0
+Cook,2021-02-26,Minnesota,119,0.0
+San Francisco,2021-02-27,California,34216,412.0
+Cook,2021-02-27,Georgia,1713,40.0
+Cook,2021-02-27,Illinois,473944,9906.0
+Cook,2021-02-27,Minnesota,118,0.0
+San Francisco,2021-02-28,California,34263,422.0
+Cook,2021-02-28,Georgia,1721,40.0
+Cook,2021-02-28,Illinois,474397,9914.0
+Cook,2021-02-28,Minnesota,118,0.0
+San Francisco,2021-03-01,California,34294,422.0
+Cook,2021-03-01,Georgia,1723,40.0
+Cook,2021-03-01,Illinois,474885,9924.0
+Cook,2021-03-01,Minnesota,118,0.0
+San Francisco,2021-03-02,California,34321,422.0
+Cook,2021-03-02,Georgia,1730,39.0
+Cook,2021-03-02,Illinois,475386,9955.0
+Cook,2021-03-02,Minnesota,118,0.0
+San Francisco,2021-03-03,California,34390,422.0
+Cook,2021-03-03,Georgia,1735,39.0
+Cook,2021-03-03,Illinois,476094,9961.0
+Cook,2021-03-03,Minnesota,118,0.0
+San Francisco,2021-03-04,California,34446,423.0
+Cook,2021-03-04,Georgia,1740,39.0
+Cook,2021-03-04,Illinois,476835,9972.0
+Cook,2021-03-04,Minnesota,118,0.0
+San Francisco,2021-03-05,California,34483,426.0
+Cook,2021-03-05,Georgia,1742,39.0
+Cook,2021-03-05,Illinois,477381,9983.0
+Cook,2021-03-05,Minnesota,118,0.0
+San Francisco,2021-03-06,California,34529,432.0
+Cook,2021-03-06,Georgia,1743,39.0
+Cook,2021-03-06,Illinois,478498,10002.0
+Cook,2021-03-06,Minnesota,119,0.0
+San Francisco,2021-03-07,California,34563,432.0
+Cook,2021-03-07,Georgia,1744,39.0
+Cook,2021-03-07,Illinois,478884,10008.0
+Cook,2021-03-07,Minnesota,119,0.0
+San Francisco,2021-03-08,California,34597,436.0
+Cook,2021-03-08,Georgia,1744,39.0
+Cook,2021-03-08,Illinois,479361,10011.0
+Cook,2021-03-08,Minnesota,119,0.0
+San Francisco,2021-03-09,California,34637,436.0
+Cook,2021-03-09,Georgia,1746,39.0
+Cook,2021-03-09,Illinois,479913,10012.0
+Cook,2021-03-09,Minnesota,119,0.0
+San Francisco,2021-03-10,California,34657,440.0
+Cook,2021-03-10,Georgia,1748,39.0
+Cook,2021-03-10,Illinois,480487,10020.0
+Cook,2021-03-10,Minnesota,121,0.0
+San Francisco,2021-03-11,California,34691,440.0
+Cook,2021-03-11,Georgia,1753,39.0
+Cook,2021-03-11,Illinois,481101,10049.0
+Cook,2021-03-11,Minnesota,121,0.0
+San Francisco,2021-03-12,California,34725,445.0
+Cook,2021-03-12,Georgia,1755,39.0
+Cook,2021-03-12,Illinois,481787,10051.0
+Cook,2021-03-12,Minnesota,122,0.0
+San Francisco,2021-03-13,California,34761,452.0
+Cook,2021-03-13,Georgia,1758,40.0
+Cook,2021-03-13,Illinois,482424,10064.0
+Cook,2021-03-13,Minnesota,122,0.0
+San Francisco,2021-03-14,California,34787,455.0
+Cook,2021-03-14,Georgia,1758,40.0
+Cook,2021-03-14,Illinois,482973,10069.0
+Cook,2021-03-14,Minnesota,125,0.0
+San Francisco,2021-03-15,California,34813,455.0
+Cook,2021-03-15,Georgia,1760,40.0
+Cook,2021-03-15,Illinois,483282,10077.0
+Cook,2021-03-15,Minnesota,127,0.0
+San Francisco,2021-03-16,California,34823,456.0
+Cook,2021-03-16,Georgia,1761,40.0
+Cook,2021-03-16,Illinois,484146,10086.0
+Cook,2021-03-16,Minnesota,128,0.0
+San Francisco,2021-03-17,California,34836,456.0
+Cook,2021-03-17,Georgia,1761,40.0
+Cook,2021-03-17,Illinois,484719,10090.0
+Cook,2021-03-17,Minnesota,131,0.0
+San Francisco,2021-03-18,California,34876,457.0
+Cook,2021-03-18,Georgia,1763,40.0
+Cook,2021-03-18,Illinois,485771,10099.0
+Cook,2021-03-18,Minnesota,133,0.0
+San Francisco,2021-03-19,California,34907,461.0
+Cook,2021-03-19,Georgia,1763,40.0
+Cook,2021-03-19,Illinois,486730,10101.0
+Cook,2021-03-19,Minnesota,134,0.0
+San Francisco,2021-03-20,California,34939,461.0
+Cook,2021-03-20,Georgia,1764,40.0
+Cook,2021-03-20,Illinois,487602,10112.0
+Cook,2021-03-20,Minnesota,134,0.0
+San Francisco,2021-03-21,California,34971,453.0
+Cook,2021-03-21,Georgia,1764,40.0
+Cook,2021-03-21,Illinois,488249,10128.0
+Cook,2021-03-21,Minnesota,134,0.0
+San Francisco,2021-03-22,California,35015,460.0
+Cook,2021-03-22,Georgia,1765,40.0
+Cook,2021-03-22,Illinois,488793,10144.0
+Cook,2021-03-22,Minnesota,135,0.0
+San Francisco,2021-03-23,California,35043,462.0
+Cook,2021-03-23,Georgia,1767,40.0
+Cook,2021-03-23,Illinois,489484,10153.0
+Cook,2021-03-23,Minnesota,135,0.0
+San Francisco,2021-03-24,California,35074,462.0
+Cook,2021-03-24,Georgia,1769,40.0
+Cook,2021-03-24,Illinois,490661,10156.0
+Cook,2021-03-24,Minnesota,135,0.0
+San Francisco,2021-03-25,California,35106,462.0
+Cook,2021-03-25,Georgia,1773,40.0
+Cook,2021-03-25,Illinois,491512,10166.0
+Cook,2021-03-25,Minnesota,135,0.0
+San Francisco,2021-03-26,California,35157,468.0
+Cook,2021-03-26,Georgia,1775,40.0
+Cook,2021-03-26,Illinois,492837,10177.0
+Cook,2021-03-26,Minnesota,136,0.0
+San Francisco,2021-03-27,California,35189,472.0
+Cook,2021-03-27,Georgia,1775,40.0
+Cook,2021-03-27,Illinois,493968,10183.0
+Cook,2021-03-27,Minnesota,137,0.0
+San Francisco,2021-03-28,California,35247,474.0
+Cook,2021-03-28,Georgia,1776,40.0
+Cook,2021-03-28,Illinois,495050,10190.0
+Cook,2021-03-28,Minnesota,137,0.0
+San Francisco,2021-03-29,California,35289,474.0
+Cook,2021-03-29,Georgia,1776,40.0
+Cook,2021-03-29,Illinois,495858,10191.0
+Cook,2021-03-29,Minnesota,137,0.0
+San Francisco,2021-03-30,California,35294,474.0
+Cook,2021-03-30,Georgia,1776,40.0
+Cook,2021-03-30,Illinois,496856,10200.0
+Cook,2021-03-30,Minnesota,138,0.0
+San Francisco,2021-03-31,California,35328,474.0
+Cook,2021-03-31,Georgia,1777,40.0
+Cook,2021-03-31,Illinois,497885,10220.0
+Cook,2021-03-31,Minnesota,139,0.0
+San Francisco,2021-04-01,California,35350,474.0
+Cook,2021-04-01,Georgia,1788,40.0
+Cook,2021-04-01,Illinois,499429,10227.0
+Cook,2021-04-01,Minnesota,140,0.0
+San Francisco,2021-04-02,California,35389,488.0
+Cook,2021-04-02,Georgia,1790,40.0
+Cook,2021-04-02,Illinois,500914,10242.0
+Cook,2021-04-02,Minnesota,140,0.0
+San Francisco,2021-04-03,California,35454,488.0
+Cook,2021-04-03,Georgia,1792,40.0
+Cook,2021-04-03,Illinois,502207,10248.0
+Cook,2021-04-03,Minnesota,140,0.0
+San Francisco,2021-04-04,California,35491,489.0
+Cook,2021-04-04,Georgia,1793,40.0
+Cook,2021-04-04,Illinois,503169,10257.0
+Cook,2021-04-04,Minnesota,140,0.0
+San Francisco,2021-04-05,California,35528,488.0
+Cook,2021-04-05,Georgia,1793,40.0
+Cook,2021-04-05,Illinois,504203,10263.0
+Cook,2021-04-05,Minnesota,141,0.0
+San Francisco,2021-04-06,California,35541,488.0
+Cook,2021-04-06,Georgia,1794,40.0
+Cook,2021-04-06,Illinois,505380,10264.0
+Cook,2021-04-06,Minnesota,141,0.0
+San Francisco,2021-04-07,California,35575,488.0
+Cook,2021-04-07,Georgia,1796,40.0
+Cook,2021-04-07,Illinois,506828,10271.0
+Cook,2021-04-07,Minnesota,142,0.0
+San Francisco,2021-04-08,California,35621,493.0
+Cook,2021-04-08,Georgia,1797,40.0
+Cook,2021-04-08,Illinois,508426,10297.0
+Cook,2021-04-08,Minnesota,142,0.0
+San Francisco,2021-04-09,California,35660,494.0
+Cook,2021-04-09,Georgia,1798,40.0
+Cook,2021-04-09,Illinois,510006,10301.0
+Cook,2021-04-09,Minnesota,144,0.0
+San Francisco,2021-04-10,California,35719,497.0
+Cook,2021-04-10,Georgia,1801,40.0
+Cook,2021-04-10,Illinois,511626,10306.0
+Cook,2021-04-10,Minnesota,144,0.0
+San Francisco,2021-04-11,California,35777,502.0
+Cook,2021-04-11,Georgia,1803,40.0
+Cook,2021-04-11,Illinois,512773,10310.0
+Cook,2021-04-11,Minnesota,144,0.0
+San Francisco,2021-04-12,California,35818,502.0
+Cook,2021-04-12,Georgia,1803,40.0
+Cook,2021-04-12,Illinois,513888,10326.0
+Cook,2021-04-12,Minnesota,144,0.0
+San Francisco,2021-04-13,California,35844,506.0
+Cook,2021-04-13,Georgia,1805,40.0
+Cook,2021-04-13,Illinois,515075,10331.0
+Cook,2021-04-13,Minnesota,144,0.0
+San Francisco,2021-04-14,California,35872,507.0
+Cook,2021-04-14,Georgia,1805,40.0
+Cook,2021-04-14,Illinois,516399,10347.0
+Cook,2021-04-14,Minnesota,144,0.0
+San Francisco,2021-04-15,California,35901,513.0
+Cook,2021-04-15,Georgia,1806,41.0
+Cook,2021-04-15,Illinois,517808,10357.0
+Cook,2021-04-15,Minnesota,144,0.0
+San Francisco,2021-04-16,California,35950,517.0
+Cook,2021-04-16,Georgia,1807,41.0
+Cook,2021-04-16,Illinois,519374,10362.0
+Cook,2021-04-16,Minnesota,144,0.0
+San Francisco,2021-04-17,California,35996,517.0
+Cook,2021-04-17,Georgia,1808,41.0
+Cook,2021-04-17,Illinois,520642,10374.0
+Cook,2021-04-17,Minnesota,145,0.0
+San Francisco,2021-04-18,California,36035,523.0
+Cook,2021-04-18,Georgia,1809,41.0
+Cook,2021-04-18,Illinois,521694,10379.0
+Cook,2021-04-18,Minnesota,146,0.0
+San Francisco,2021-04-19,California,36076,525.0
+Cook,2021-04-19,Georgia,1810,41.0
+Cook,2021-04-19,Illinois,522552,10390.0
+Cook,2021-04-19,Minnesota,146,0.0
+San Francisco,2021-04-20,California,36097,529.0
+Cook,2021-04-20,Georgia,1812,42.0
+Cook,2021-04-20,Illinois,523598,10394.0
+Cook,2021-04-20,Minnesota,146,0.0
+San Francisco,2021-04-21,California,36120,529.0
+Cook,2021-04-21,Georgia,1812,42.0
+Cook,2021-04-21,Illinois,524592,10402.0
+Cook,2021-04-21,Minnesota,148,0.0
+San Francisco,2021-04-22,California,36197,529.0
+Cook,2021-04-22,Georgia,1813,42.0
+Cook,2021-04-22,Illinois,525854,10415.0
+Cook,2021-04-22,Minnesota,149,0.0
+San Francisco,2021-04-23,California,36221,532.0
+Cook,2021-04-23,Georgia,1815,42.0
+Cook,2021-04-23,Illinois,527102,10424.0
+Cook,2021-04-23,Minnesota,150,0.0
+San Francisco,2021-04-24,California,36255,532.0
+Cook,2021-04-24,Georgia,1817,42.0
+Cook,2021-04-24,Illinois,528337,10433.0
+Cook,2021-04-24,Minnesota,152,0.0
+San Francisco,2021-04-25,California,36288,532.0
+Cook,2021-04-25,Georgia,1817,42.0
+Cook,2021-04-25,Illinois,529165,10449.0
+Cook,2021-04-25,Minnesota,152,0.0
+San Francisco,2021-04-26,California,36313,532.0
+Cook,2021-04-26,Georgia,1817,42.0
+Cook,2021-04-26,Illinois,530003,10455.0
+Cook,2021-04-26,Minnesota,152,0.0
+San Francisco,2021-04-27,California,36333,532.0
+Cook,2021-04-27,Georgia,1817,42.0
+Cook,2021-04-27,Illinois,530975,10466.0
+Cook,2021-04-27,Minnesota,153,0.0
+San Francisco,2021-04-28,California,36361,533.0
+Cook,2021-04-28,Georgia,1817,42.0
+Cook,2021-04-28,Illinois,531906,10482.0
+Cook,2021-04-28,Minnesota,153,0.0
+San Francisco,2021-04-29,California,36385,534.0
+Cook,2021-04-29,Georgia,1818,42.0
+Cook,2021-04-29,Illinois,533297,10497.0
+Cook,2021-04-29,Minnesota,154,0.0
+San Francisco,2021-04-30,California,36415,537.0
+Cook,2021-04-30,Georgia,1818,42.0
+Cook,2021-04-30,Illinois,534462,10507.0
+Cook,2021-04-30,Minnesota,155,0.0
+San Francisco,2021-05-01,California,36456,538.0
+Cook,2021-05-01,Georgia,1819,43.0
+Cook,2021-05-01,Illinois,535614,10515.0
+Cook,2021-05-01,Minnesota,155,0.0
+San Francisco,2021-05-02,California,36499,541.0
+Cook,2021-05-02,Georgia,1819,43.0
+Cook,2021-05-02,Illinois,536384,10525.0
+Cook,2021-05-02,Minnesota,155,0.0
+San Francisco,2021-05-03,California,36525,541.0
+Cook,2021-05-03,Georgia,1819,43.0
+Cook,2021-05-03,Illinois,537224,10542.0
+Cook,2021-05-03,Minnesota,155,0.0
+San Francisco,2021-05-04,California,36541,541.0
+Cook,2021-05-04,Georgia,1821,43.0
+Cook,2021-05-04,Illinois,538095,10551.0
+Cook,2021-05-04,Minnesota,155,0.0
+San Francisco,2021-05-05,California,36553,541.0
+Cook,2021-05-05,Georgia,1821,43.0
+Cook,2021-05-05,Illinois,539005,10563.0
+Cook,2021-05-05,Minnesota,156,0.0
+San Francisco,2021-05-06,California,36580,543.0
+Cook,2021-05-06,Georgia,1824,43.0
+Cook,2021-05-06,Illinois,539645,10575.0
+Cook,2021-05-06,Minnesota,156,0.0
+San Francisco,2021-05-07,California,36602,543.0
+Cook,2021-05-07,Georgia,1824,43.0
+Cook,2021-05-07,Illinois,541017,10590.0
+Cook,2021-05-07,Minnesota,156,0.0
+San Francisco,2021-05-08,California,36619,543.0
+Cook,2021-05-08,Georgia,1825,43.0
+Cook,2021-05-08,Illinois,541692,10599.0
+Cook,2021-05-08,Minnesota,157,0.0
+San Francisco,2021-05-09,California,36645,543.0
+Cook,2021-05-09,Georgia,1825,43.0
+Cook,2021-05-09,Illinois,542450,10611.0
+Cook,2021-05-09,Minnesota,159,0.0
+San Francisco,2021-05-10,California,36672,543.0
+Cook,2021-05-10,Georgia,1826,43.0
+Cook,2021-05-10,Illinois,543111,10618.0
+Cook,2021-05-10,Minnesota,161,0.0
+San Francisco,2021-05-11,California,36686,543.0
+Cook,2021-05-11,Georgia,1827,43.0
+Cook,2021-05-11,Illinois,543658,10635.0
+Cook,2021-05-11,Minnesota,161,0.0
+San Francisco,2021-05-12,California,36710,543.0
+Cook,2021-05-12,Georgia,1828,43.0
+Cook,2021-05-12,Illinois,544279,10642.0
+Cook,2021-05-12,Minnesota,162,0.0
+San Francisco,2021-05-13,California,36723,544.0
+Cook,2021-05-13,Georgia,1830,43.0
+Cook,2021-05-13,Illinois,545041,10655.0
+Cook,2021-05-13,Minnesota,162,0.0
+San Francisco,2021-05-14,California,36744,544.0
+Cook,2021-05-14,Georgia,1831,42.0
+Cook,2021-05-14,Illinois,545785,10669.0
+Cook,2021-05-14,Minnesota,164,0.0
+San Francisco,2021-05-15,California,36774,545.0
+Cook,2021-05-15,Georgia,1832,42.0
+Cook,2021-05-15,Illinois,546360,10691.0
+Cook,2021-05-15,Minnesota,164,0.0
+San Francisco,2021-05-16,California,36798,546.0
+Cook,2021-05-16,Georgia,1832,42.0
+Cook,2021-05-16,Illinois,546908,10699.0
+Cook,2021-05-16,Minnesota,166,0.0
+San Francisco,2021-05-17,California,36811,546.0
+Cook,2021-05-17,Georgia,1833,42.0
+Cook,2021-05-17,Illinois,547345,10702.0
+Cook,2021-05-17,Minnesota,166,0.0
+San Francisco,2021-05-18,California,36819,546.0
+Cook,2021-05-18,Georgia,1833,42.0
+Cook,2021-05-18,Illinois,547922,10716.0
+Cook,2021-05-18,Minnesota,166,0.0
+San Francisco,2021-05-19,California,36821,546.0
+Cook,2021-05-19,Georgia,1833,42.0
+Cook,2021-05-19,Illinois,548542,10729.0
+Cook,2021-05-19,Minnesota,167,0.0
+San Francisco,2021-05-20,California,36838,546.0
+Cook,2021-05-20,Georgia,1835,42.0
+Cook,2021-05-20,Illinois,549205,10745.0
+Cook,2021-05-20,Minnesota,167,0.0
+San Francisco,2021-05-21,California,36863,546.0
+Cook,2021-05-21,Georgia,1836,42.0
+Cook,2021-05-21,Illinois,549886,10747.0
+Cook,2021-05-21,Minnesota,167,0.0
+San Francisco,2021-05-22,California,36882,546.0
+Cook,2021-05-22,Georgia,1836,42.0
+Cook,2021-05-22,Illinois,550396,10768.0
+Cook,2021-05-22,Minnesota,167,0.0
+San Francisco,2021-05-23,California,36909,547.0
+Cook,2021-05-23,Georgia,1836,42.0
+Cook,2021-05-23,Illinois,550840,10777.0
+Cook,2021-05-23,Minnesota,167,0.0
+San Francisco,2021-05-24,California,36930,547.0
+Cook,2021-05-24,Georgia,1836,42.0
+Cook,2021-05-24,Illinois,551311,10785.0
+Cook,2021-05-24,Minnesota,168,0.0
+San Francisco,2021-05-25,California,36937,547.0
+Cook,2021-05-25,Georgia,1836,42.0
+Cook,2021-05-25,Illinois,551609,10796.0
+Cook,2021-05-25,Minnesota,168,0.0
+San Francisco,2021-05-26,California,36942,546.0
+Cook,2021-05-26,Georgia,1836,42.0
+Cook,2021-05-26,Illinois,552055,10800.0
+Cook,2021-05-26,Minnesota,168,0.0
+San Francisco,2021-05-27,California,36957,546.0
+Cook,2021-05-27,Georgia,1836,42.0
+Cook,2021-05-27,Illinois,552466,10816.0
+Cook,2021-05-27,Minnesota,168,0.0
+San Francisco,2021-05-28,California,36983,546.0
+Cook,2021-05-28,Georgia,1836,43.0
+Cook,2021-05-28,Illinois,552901,10826.0
+Cook,2021-05-28,Minnesota,169,0.0
+San Francisco,2021-05-29,California,36990,546.0
+Cook,2021-05-29,Georgia,1837,43.0
+Cook,2021-05-29,Illinois,553191,10840.0
+Cook,2021-05-29,Minnesota,169,0.0
+San Francisco,2021-05-30,California,37011,550.0
+Cook,2021-05-30,Georgia,1837,43.0
+Cook,2021-05-30,Illinois,553474,10848.0
+Cook,2021-05-30,Minnesota,170,0.0
+San Francisco,2021-05-31,California,37019,550.0
+Cook,2021-05-31,Georgia,1837,43.0
+Cook,2021-05-31,Illinois,553716,10875.0
+Cook,2021-05-31,Minnesota,170,0.0
+San Francisco,2021-06-01,California,37025,550.0
+Cook,2021-06-01,Georgia,1837,43.0
+Cook,2021-06-01,Illinois,553926,10882.0
+Cook,2021-06-01,Minnesota,170,0.0
+San Francisco,2021-06-02,California,37034,550.0
+Cook,2021-06-02,Georgia,1839,43.0
+Cook,2021-06-02,Illinois,554124,10885.0
+Cook,2021-06-02,Minnesota,170,0.0
+San Francisco,2021-06-03,California,37053,550.0
+Cook,2021-06-03,Georgia,1840,43.0
+Cook,2021-06-03,Illinois,554390,10893.0
+Cook,2021-06-03,Minnesota,170,0.0
+San Francisco,2021-06-04,California,37075,551.0
+Cook,2021-06-04,Georgia,1840,43.0
+Cook,2021-06-04,Illinois,554604,10896.0
+Cook,2021-06-04,Minnesota,170,0.0
+San Francisco,2021-06-05,California,37082,551.0
+Cook,2021-06-05,Georgia,1840,44.0
+Cook,2021-06-05,Illinois,554813,10912.0
+Cook,2021-06-05,Minnesota,170,0.0
+San Francisco,2021-06-06,California,37114,552.0
+Cook,2021-06-06,Georgia,1841,44.0
+Cook,2021-06-06,Illinois,554962,10923.0
+Cook,2021-06-06,Minnesota,170,0.0
+San Francisco,2021-06-07,California,37121,552.0
+Cook,2021-06-07,Georgia,1841,44.0
+Cook,2021-06-07,Illinois,555060,10934.0
+Cook,2021-06-07,Minnesota,171,0.0
+San Francisco,2021-06-08,California,37125,552.0
+Cook,2021-06-08,Georgia,1845,44.0
+Cook,2021-06-08,Illinois,555195,10938.0
+Cook,2021-06-08,Minnesota,171,0.0
+San Francisco,2021-06-09,California,37137,552.0
+Cook,2021-06-09,Georgia,1846,44.0
+Cook,2021-06-09,Illinois,555344,10948.0
+Cook,2021-06-09,Minnesota,171,0.0
+San Francisco,2021-06-10,California,37146,552.0
+Cook,2021-06-10,Georgia,1848,44.0
+Cook,2021-06-10,Illinois,555488,10954.0
+Cook,2021-06-10,Minnesota,171,0.0
+San Francisco,2021-06-11,California,37162,552.0
+Cook,2021-06-11,Georgia,1852,44.0
+Cook,2021-06-11,Illinois,555646,10965.0
+Cook,2021-06-11,Minnesota,171,0.0
+San Francisco,2021-06-12,California,37180,555.0
+Cook,2021-06-12,Georgia,1853,44.0
+Cook,2021-06-12,Illinois,555734,10974.0
+Cook,2021-06-12,Minnesota,172,0.0
+San Francisco,2021-06-13,California,37192,555.0
+Cook,2021-06-13,Georgia,1853,44.0
+Cook,2021-06-13,Illinois,555850,10978.0
+Cook,2021-06-13,Minnesota,172,0.0
+San Francisco,2021-06-14,California,37200,555.0
+Cook,2021-06-14,Georgia,1854,44.0
+Cook,2021-06-14,Illinois,555902,10982.0
+Cook,2021-06-14,Minnesota,172,0.0
+San Francisco,2021-06-15,California,37209,555.0
+Cook,2021-06-15,Georgia,1855,44.0
+Cook,2021-06-15,Illinois,555976,10993.0
+Cook,2021-06-15,Minnesota,172,0.0
+San Francisco,2021-06-16,California,37213,555.0
+Cook,2021-06-16,Georgia,1856,44.0
+Cook,2021-06-16,Illinois,556107,11006.0
+Cook,2021-06-16,Minnesota,172,0.0
+San Francisco,2021-06-17,California,37225,555.0
+Cook,2021-06-17,Georgia,1858,44.0
+Cook,2021-06-17,Illinois,556179,11011.0
+Cook,2021-06-17,Minnesota,172,0.0
+San Francisco,2021-06-18,California,37246,556.0
+Cook,2021-06-18,Georgia,1864,44.0
+Cook,2021-06-18,Illinois,556201,11016.0
+Cook,2021-06-18,Minnesota,172,0.0
+San Francisco,2021-06-19,California,37249,556.0
+Cook,2021-06-19,Georgia,1865,44.0
+Cook,2021-06-19,Illinois,556201,11016.0
+Cook,2021-06-19,Minnesota,172,0.0
+San Francisco,2021-06-20,California,37259,556.0
+Cook,2021-06-20,Georgia,1865,44.0
+Cook,2021-06-20,Illinois,556201,11016.0
+Cook,2021-06-20,Minnesota,172,0.0
+San Francisco,2021-06-21,California,37272,556.0
+Cook,2021-06-21,Georgia,1865,44.0
+Cook,2021-06-21,Illinois,556429,11022.0
+Cook,2021-06-21,Minnesota,172,0.0
+San Francisco,2021-06-22,California,37278,556.0
+Cook,2021-06-22,Georgia,1867,44.0
+Cook,2021-06-22,Illinois,556487,11024.0
+Cook,2021-06-22,Minnesota,172,0.0
+San Francisco,2021-06-23,California,37290,556.0
+Cook,2021-06-23,Georgia,1868,44.0
+Cook,2021-06-23,Illinois,556556,11025.0
+Cook,2021-06-23,Minnesota,172,0.0
+San Francisco,2021-06-24,California,37307,559.0
+Cook,2021-06-24,Georgia,1868,44.0
+Cook,2021-06-24,Illinois,556629,11030.0
+Cook,2021-06-24,Minnesota,172,0.0
+San Francisco,2021-06-25,California,37323,559.0
+Cook,2021-06-25,Georgia,1869,44.0
+Cook,2021-06-25,Illinois,556715,11033.0
+Cook,2021-06-25,Minnesota,172,0.0
+San Francisco,2021-06-26,California,37341,559.0
+Cook,2021-06-26,Georgia,1871,44.0
+Cook,2021-06-26,Illinois,556715,11033.0
+Cook,2021-06-26,Minnesota,172,0.0
+San Francisco,2021-06-27,California,37351,559.0
+Cook,2021-06-27,Georgia,1872,44.0
+Cook,2021-06-27,Illinois,556715,11033.0
+Cook,2021-06-27,Minnesota,172,0.0
+San Francisco,2021-06-28,California,37363,559.0
+Cook,2021-06-28,Georgia,1876,44.0
+Cook,2021-06-28,Illinois,556885,11041.0
+Cook,2021-06-28,Minnesota,172,0.0
+San Francisco,2021-06-29,California,37375,559.0
+Cook,2021-06-29,Georgia,1876,44.0
+Cook,2021-06-29,Illinois,556951,11045.0
+Cook,2021-06-29,Minnesota,172,0.0
+San Francisco,2021-06-30,California,37044,558.0
+Cook,2021-06-30,Georgia,1888,44.0
+Cook,2021-06-30,Illinois,557001,11047.0
+Cook,2021-06-30,Minnesota,172,0.0
+San Francisco,2021-07-01,California,37068,558.0
+Cook,2021-07-01,Georgia,1900,44.0
+Cook,2021-07-01,Illinois,557124,11048.0
+Cook,2021-07-01,Minnesota,172,0.0
+San Francisco,2021-07-02,California,37110,558.0
+Cook,2021-07-02,Georgia,1901,44.0
+Cook,2021-07-02,Illinois,557173,11049.0
+Cook,2021-07-02,Minnesota,172,0.0
+San Francisco,2021-07-03,California,37110,558.0
+Cook,2021-07-03,Georgia,1901,44.0
+Cook,2021-07-03,Illinois,557173,11049.0
+Cook,2021-07-03,Minnesota,172,0.0
+San Francisco,2021-07-04,California,37110,558.0
+Cook,2021-07-04,Georgia,1901,44.0
+Cook,2021-07-04,Illinois,557173,11049.0
+Cook,2021-07-04,Minnesota,172,0.0
+San Francisco,2021-07-05,California,37110,558.0
+Cook,2021-07-05,Georgia,1901,44.0
+Cook,2021-07-05,Illinois,557173,11049.0
+Cook,2021-07-05,Minnesota,172,0.0
+San Francisco,2021-07-06,California,37240,558.0
+Cook,2021-07-06,Georgia,1921,44.0
+Cook,2021-07-06,Illinois,557498,11067.0
+Cook,2021-07-06,Minnesota,172,0.0
+San Francisco,2021-07-07,California,37254,558.0
+Cook,2021-07-07,Georgia,1921,44.0
+Cook,2021-07-07,Illinois,557590,11070.0
+Cook,2021-07-07,Minnesota,172,0.0
+San Francisco,2021-07-08,California,38717,558.0
+Cook,2021-07-08,Georgia,1925,44.0
+Cook,2021-07-08,Illinois,557740,11074.0
+Cook,2021-07-08,Minnesota,173,0.0
+San Francisco,2021-07-09,California,38771,559.0
+Cook,2021-07-09,Georgia,1931,44.0
+Cook,2021-07-09,Illinois,557922,11077.0
+Cook,2021-07-09,Minnesota,173,0.0
+San Francisco,2021-07-10,California,38771,559.0
+Cook,2021-07-10,Georgia,1931,44.0
+Cook,2021-07-10,Illinois,557922,11077.0
+Cook,2021-07-10,Minnesota,173,0.0
+San Francisco,2021-07-11,California,38771,559.0
+Cook,2021-07-11,Georgia,1931,44.0
+Cook,2021-07-11,Illinois,557922,11077.0
+Cook,2021-07-11,Minnesota,173,0.0
+San Francisco,2021-07-12,California,39029,559.0
+Cook,2021-07-12,Georgia,1939,43.0
+Cook,2021-07-12,Illinois,558286,11084.0
+Cook,2021-07-12,Minnesota,173,0.0
+San Francisco,2021-07-13,California,39089,559.0
+Cook,2021-07-13,Georgia,1943,43.0
+Cook,2021-07-13,Illinois,558394,11091.0
+Cook,2021-07-13,Minnesota,173,0.0
+San Francisco,2021-07-14,California,39158,559.0
+Cook,2021-07-14,Georgia,1947,43.0
+Cook,2021-07-14,Illinois,558563,11091.0
+Cook,2021-07-14,Minnesota,173,0.0
+San Francisco,2021-07-15,California,39269,559.0
+Cook,2021-07-15,Georgia,1949,43.0
+Cook,2021-07-15,Illinois,558781,11093.0
+Cook,2021-07-15,Minnesota,173,0.0
+San Francisco,2021-07-16,California,39411,560.0
+Cook,2021-07-16,Georgia,1950,43.0
+Cook,2021-07-16,Illinois,558928,11094.0
+Cook,2021-07-16,Minnesota,173,0.0
+San Francisco,2021-07-17,California,39411,560.0
+Cook,2021-07-17,Georgia,1950,43.0
+Cook,2021-07-17,Illinois,558928,11094.0
+Cook,2021-07-17,Minnesota,173,0.0
+San Francisco,2021-07-18,California,39411,560.0
+Cook,2021-07-18,Georgia,1950,43.0
+Cook,2021-07-18,Illinois,558928,11094.0
+Cook,2021-07-18,Minnesota,173,0.0
+San Francisco,2021-07-19,California,39800,560.0
+Cook,2021-07-19,Georgia,1964,43.0
+Cook,2021-07-19,Illinois,559767,11102.0
+Cook,2021-07-19,Minnesota,173,0.0
+San Francisco,2021-07-20,California,39896,560.0
+Cook,2021-07-20,Georgia,1970,43.0
+Cook,2021-07-20,Illinois,559884,11105.0
+Cook,2021-07-20,Minnesota,174,0.0
+San Francisco,2021-07-21,California,39969,558.0
+Cook,2021-07-21,Georgia,1976,43.0
+Cook,2021-07-21,Illinois,560155,11105.0
+Cook,2021-07-21,Minnesota,174,0.0
+San Francisco,2021-07-22,California,40211,559.0
+Cook,2021-07-22,Georgia,1983,43.0
+Cook,2021-07-22,Illinois,560675,11107.0
+Cook,2021-07-22,Minnesota,174,0.0
+San Francisco,2021-07-23,California,40466,561.0
+Cook,2021-07-23,Georgia,1989,43.0
+Cook,2021-07-23,Illinois,561168,11108.0
+Cook,2021-07-23,Minnesota,174,0.0
+San Francisco,2021-07-24,California,40466,561.0
+Cook,2021-07-24,Georgia,1989,43.0
+Cook,2021-07-24,Illinois,561168,11108.0
+Cook,2021-07-24,Minnesota,174,0.0
+San Francisco,2021-07-25,California,40466,561.0
+Cook,2021-07-25,Georgia,1989,43.0
+Cook,2021-07-25,Illinois,561168,11108.0
+Cook,2021-07-25,Minnesota,174,0.0
+San Francisco,2021-07-26,California,41175,561.0
+Cook,2021-07-26,Georgia,2011,43.0
+Cook,2021-07-26,Illinois,562216,11109.0
+Cook,2021-07-26,Minnesota,174,0.0
+San Francisco,2021-07-27,California,41312,561.0
+Cook,2021-07-27,Georgia,2028,43.0
+Cook,2021-07-27,Illinois,562540,11112.0
+Cook,2021-07-27,Minnesota,174,0.0
+San Francisco,2021-07-28,California,41451,561.0
+Cook,2021-07-28,Georgia,2047,43.0
+Cook,2021-07-28,Illinois,563084,11114.0
+Cook,2021-07-28,Minnesota,174,0.0
+San Francisco,2021-07-29,California,41747,561.0
+Cook,2021-07-29,Georgia,2069,43.0
+Cook,2021-07-29,Illinois,563452,11119.0
+Cook,2021-07-29,Minnesota,174,0.0
+San Francisco,2021-07-30,California,42015,562.0
+Cook,2021-07-30,Georgia,2089,43.0
+Cook,2021-07-30,Illinois,564091,11121.0
+Cook,2021-07-30,Minnesota,174,0.0
+San Francisco,2021-07-31,California,42015,562.0
+Cook,2021-07-31,Georgia,2089,43.0
+Cook,2021-07-31,Illinois,564091,11121.0
+Cook,2021-07-31,Minnesota,174,0.0
+San Francisco,2021-08-01,California,42015,562.0
+Cook,2021-08-01,Georgia,2089,43.0
+Cook,2021-08-01,Illinois,564091,11121.0
+Cook,2021-08-01,Minnesota,174,0.0
+San Francisco,2021-08-02,California,43035,562.0
+Cook,2021-08-02,Georgia,2105,43.0
+Cook,2021-08-02,Illinois,565780,11127.0
+Cook,2021-08-02,Minnesota,174,0.0
+San Francisco,2021-08-03,California,43156,562.0
+Cook,2021-08-03,Georgia,2147,43.0
+Cook,2021-08-03,Illinois,566466,11131.0
+Cook,2021-08-03,Minnesota,176,0.0
+San Francisco,2021-08-04,California,43361,562.0
+Cook,2021-08-04,Georgia,2165,43.0
+Cook,2021-08-04,Illinois,566985,11136.0
+Cook,2021-08-04,Minnesota,176,0.0
+San Francisco,2021-08-05,California,43674,562.0
+Cook,2021-08-05,Georgia,2189,43.0
+Cook,2021-08-05,Illinois,567872,11140.0
+Cook,2021-08-05,Minnesota,176,0.0
+San Francisco,2021-08-06,California,44062,564.0
+Cook,2021-08-06,Georgia,2208,43.0
+Cook,2021-08-06,Illinois,568822,11147.0
+Cook,2021-08-06,Minnesota,176,0.0
+San Francisco,2021-08-07,California,44062,564.0
+Cook,2021-08-07,Georgia,2208,43.0
+Cook,2021-08-07,Illinois,568822,11147.0
+Cook,2021-08-07,Minnesota,176,0.0
+San Francisco,2021-08-08,California,44687,564.0
+Cook,2021-08-08,Georgia,2208,43.0
+Cook,2021-08-08,Illinois,568822,11147.0
+Cook,2021-08-08,Minnesota,176,0.0
+San Francisco,2021-08-09,California,44859,564.0
+Cook,2021-08-09,Georgia,2268,43.0
+Cook,2021-08-09,Illinois,571012,11156.0
+Cook,2021-08-09,Minnesota,176,0.0
+San Francisco,2021-08-10,California,45022,564.0
+Cook,2021-08-10,Georgia,2308,43.0
+Cook,2021-08-10,Illinois,571693,11164.0
+Cook,2021-08-10,Minnesota,177,0.0
+San Francisco,2021-08-11,California,45150,564.0
+Cook,2021-08-11,Georgia,2343,44.0
+Cook,2021-08-11,Illinois,572726,11165.0
+Cook,2021-08-11,Minnesota,177,0.0
+San Francisco,2021-08-12,California,45316,564.0
+Cook,2021-08-12,Georgia,2387,44.0
+Cook,2021-08-12,Illinois,573445,11170.0
+Cook,2021-08-12,Minnesota,177,0.0
+San Francisco,2021-08-13,California,45535,564.0
+Cook,2021-08-13,Georgia,2400,44.0
+Cook,2021-08-13,Illinois,574316,11179.0
+Cook,2021-08-13,Minnesota,177,0.0
+San Francisco,2021-08-14,California,45957,567.0
+Cook,2021-08-14,Georgia,2400,44.0
+Cook,2021-08-14,Illinois,574316,11179.0
+Cook,2021-08-14,Minnesota,177,0.0
+San Francisco,2021-08-15,California,46114,567.0
+Cook,2021-08-15,Georgia,2400,44.0
+Cook,2021-08-15,Illinois,574316,11179.0
+Cook,2021-08-15,Minnesota,177,0.0
+San Francisco,2021-08-16,California,46292,567.0
+Cook,2021-08-16,Georgia,2513,45.0
+Cook,2021-08-16,Illinois,577187,11186.0
+Cook,2021-08-16,Minnesota,177,0.0
+San Francisco,2021-08-17,California,46442,567.0
+Cook,2021-08-17,Georgia,2566,45.0
+Cook,2021-08-17,Illinois,578015,11196.0
+Cook,2021-08-17,Minnesota,179,0.0
+San Francisco,2021-08-18,California,46581,567.0
+Cook,2021-08-18,Georgia,2623,45.0
+Cook,2021-08-18,Illinois,578907,11211.0
+Cook,2021-08-18,Minnesota,180,0.0
+San Francisco,2021-08-19,California,47067,568.0
+Cook,2021-08-19,Georgia,2702,45.0
+Cook,2021-08-19,Illinois,579716,11216.0
+Cook,2021-08-19,Minnesota,181,0.0
+San Francisco,2021-08-20,California,47330,571.0
+Cook,2021-08-20,Georgia,2763,45.0
+Cook,2021-08-20,Illinois,581027,11222.0
+Cook,2021-08-20,Minnesota,182,0.0
+San Francisco,2021-08-21,California,47542,573.0
+Cook,2021-08-21,Georgia,2763,45.0
+Cook,2021-08-21,Illinois,581027,11222.0
+Cook,2021-08-21,Minnesota,182,0.0
+San Francisco,2021-08-22,California,47747,573.0
+Cook,2021-08-22,Georgia,2763,45.0
+Cook,2021-08-22,Illinois,581027,11222.0
+Cook,2021-08-22,Minnesota,182,0.0
+San Francisco,2021-08-23,California,47941,573.0
+Cook,2021-08-23,Georgia,2857,45.0
+Cook,2021-08-23,Illinois,583679,11237.0
+Cook,2021-08-23,Minnesota,186,0.0
+San Francisco,2021-08-24,California,48055,573.0
+Cook,2021-08-24,Georgia,2932,45.0
+Cook,2021-08-24,Illinois,584459,11245.0
+Cook,2021-08-24,Minnesota,188,0.0
+San Francisco,2021-08-25,California,48120,574.0
+Cook,2021-08-25,Georgia,2990,46.0
+Cook,2021-08-25,Illinois,585612,11257.0
+Cook,2021-08-25,Minnesota,191,0.0
+San Francisco,2021-08-26,California,48303,578.0
+Cook,2021-08-26,Georgia,3031,46.0
+Cook,2021-08-26,Illinois,586687,11282.0
+Cook,2021-08-26,Minnesota,193,0.0
+San Francisco,2021-08-27,California,48484,581.0
+Cook,2021-08-27,Georgia,3070,47.0
+Cook,2021-08-27,Illinois,588099,11288.0
+Cook,2021-08-27,Minnesota,194,0.0
+San Francisco,2021-08-28,California,48652,581.0
+Cook,2021-08-28,Georgia,3070,47.0
+Cook,2021-08-28,Illinois,588099,11288.0
+Cook,2021-08-28,Minnesota,194,0.0
+San Francisco,2021-08-29,California,48850,581.0
+Cook,2021-08-29,Georgia,3070,47.0
+Cook,2021-08-29,Illinois,588099,11288.0
+Cook,2021-08-29,Minnesota,194,0.0
+San Francisco,2021-08-30,California,49081,581.0
+Cook,2021-08-30,Georgia,3131,47.0
+Cook,2021-08-30,Illinois,590825,11294.0
+Cook,2021-08-30,Minnesota,196,0.0
+San Francisco,2021-08-31,California,49162,581.0
+Cook,2021-08-31,Georgia,3205,47.0
+Cook,2021-08-31,Illinois,592050,11304.0
+Cook,2021-08-31,Minnesota,196,0.0
+San Francisco,2021-09-01,California,49636,581.0
+Cook,2021-09-01,Georgia,3235,48.0
+Cook,2021-09-01,Illinois,593219,11313.0
+Cook,2021-09-01,Minnesota,196,0.0
+San Francisco,2021-09-02,California,49806,584.0
+Cook,2021-09-02,Georgia,3270,48.0
+Cook,2021-09-02,Illinois,594250,11342.0
+Cook,2021-09-02,Minnesota,198,0.0
+San Francisco,2021-09-03,California,49942,587.0
+Cook,2021-09-03,Georgia,3307,48.0
+Cook,2021-09-03,Illinois,595861,11351.0
+Cook,2021-09-03,Minnesota,199,0.0
+San Francisco,2021-09-04,California,50090,589.0
+Cook,2021-09-04,Georgia,3307,48.0
+Cook,2021-09-04,Illinois,595861,11351.0
+Cook,2021-09-04,Minnesota,199,0.0
+San Francisco,2021-09-05,California,50205,589.0
+Cook,2021-09-05,Georgia,3307,48.0
+Cook,2021-09-05,Illinois,595861,11351.0
+Cook,2021-09-05,Minnesota,199,0.0
+San Francisco,2021-09-06,California,50303,589.0
+Cook,2021-09-06,Georgia,3307,48.0
+Cook,2021-09-06,Illinois,595861,11351.0
+Cook,2021-09-06,Minnesota,199,0.0
+San Francisco,2021-09-07,California,50388,589.0
+Cook,2021-09-07,Georgia,3371,49.0
+Cook,2021-09-07,Illinois,599101,11371.0
+Cook,2021-09-07,Minnesota,199,0.0
+San Francisco,2021-09-08,California,50443,589.0
+Cook,2021-09-08,Georgia,3383,49.0
+Cook,2021-09-08,Illinois,600122,11393.0
+Cook,2021-09-08,Minnesota,203,0.0
+San Francisco,2021-09-09,California,50645,589.0
+Cook,2021-09-09,Georgia,3398,50.0
+Cook,2021-09-09,Illinois,601238,11396.0
+Cook,2021-09-09,Minnesota,203,0.0
+San Francisco,2021-09-10,California,50786,597.0
+Cook,2021-09-10,Georgia,3405,50.0
+Cook,2021-09-10,Illinois,602648,11405.0
+Cook,2021-09-10,Minnesota,205,0.0
+San Francisco,2021-09-11,California,50900,602.0
+Cook,2021-09-11,Georgia,3405,50.0
+Cook,2021-09-11,Illinois,602648,11405.0
+Cook,2021-09-11,Minnesota,205,0.0
+San Francisco,2021-09-12,California,51042,603.0
+Cook,2021-09-12,Georgia,3405,50.0
+Cook,2021-09-12,Illinois,602648,11405.0
+Cook,2021-09-12,Minnesota,205,0.0
+San Francisco,2021-09-13,California,51201,603.0
+Cook,2021-09-13,Georgia,3429,50.0
+Cook,2021-09-13,Illinois,605061,11432.0
+Cook,2021-09-13,Minnesota,207,0.0
+San Francisco,2021-09-14,California,51296,603.0
+Cook,2021-09-14,Georgia,3456,50.0
+Cook,2021-09-14,Illinois,606266,11448.0
+Cook,2021-09-14,Minnesota,206,0.0
+San Francisco,2021-09-15,California,51380,603.0
+Cook,2021-09-15,Georgia,3470,52.0
+Cook,2021-09-15,Illinois,607266,11457.0
+Cook,2021-09-15,Minnesota,206,0.0
+San Francisco,2021-09-16,California,51451,605.0
+Cook,2021-09-16,Georgia,3484,52.0
+Cook,2021-09-16,Illinois,608383,11463.0
+Cook,2021-09-16,Minnesota,211,0.0
+San Francisco,2021-09-17,California,51585,605.0
+Cook,2021-09-17,Georgia,3492,52.0
+Cook,2021-09-17,Illinois,609376,11480.0
+Cook,2021-09-17,Minnesota,212,0.0
+San Francisco,2021-09-18,California,51701,605.0
+Cook,2021-09-18,Georgia,3492,52.0
+Cook,2021-09-18,Illinois,609376,11480.0
+Cook,2021-09-18,Minnesota,212,0.0
+San Francisco,2021-09-19,California,51811,605.0
+Cook,2021-09-19,Georgia,3492,52.0
+Cook,2021-09-19,Illinois,609376,11480.0
+Cook,2021-09-19,Minnesota,212,0.0
+San Francisco,2021-09-20,California,51910,605.0
+Cook,2021-09-20,Georgia,3507,53.0
+Cook,2021-09-20,Illinois,611852,11503.0
+Cook,2021-09-20,Minnesota,214,0.0
+San Francisco,2021-09-21,California,52011,605.0
+Cook,2021-09-21,Georgia,3511,53.0
+Cook,2021-09-21,Illinois,612610,11508.0
+Cook,2021-09-21,Minnesota,215,0.0
+San Francisco,2021-09-22,California,52105,609.0
+Cook,2021-09-22,Georgia,3515,53.0
+Cook,2021-09-22,Illinois,613549,11519.0
+Cook,2021-09-22,Minnesota,214,0.0
+San Francisco,2021-09-23,California,52225,610.0
+Cook,2021-09-23,Georgia,3525,54.0
+Cook,2021-09-23,Illinois,614487,11525.0
+Cook,2021-09-23,Minnesota,215,0.0
+San Francisco,2021-09-24,California,52331,615.0
+Cook,2021-09-24,Georgia,3530,54.0
+Cook,2021-09-24,Illinois,615436,11542.0
+Cook,2021-09-24,Minnesota,215,0.0
+San Francisco,2021-09-25,California,52331,615.0
+Cook,2021-09-25,Georgia,3530,54.0
+Cook,2021-09-25,Illinois,615436,11542.0
+Cook,2021-09-25,Minnesota,215,0.0
+San Francisco,2021-09-26,California,52331,615.0
+Cook,2021-09-26,Georgia,3530,54.0
+Cook,2021-09-26,Illinois,615436,11542.0
+Cook,2021-09-26,Minnesota,215,0.0
+San Francisco,2021-09-27,California,52583,622.0
+Cook,2021-09-27,Georgia,3537,54.0
+Cook,2021-09-27,Illinois,617360,11563.0
+Cook,2021-09-27,Minnesota,215,0.0
+San Francisco,2021-09-28,California,52648,622.0
+Cook,2021-09-28,Georgia,3539,54.0
+Cook,2021-09-28,Illinois,617846,11580.0
+Cook,2021-09-28,Minnesota,217,0.0
+San Francisco,2021-09-29,California,52725,627.0
+Cook,2021-09-29,Georgia,3547,54.0
+Cook,2021-09-29,Illinois,618610,11584.0
+Cook,2021-09-29,Minnesota,218,0.0
+San Francisco,2021-09-30,California,52815,629.0
+Cook,2021-09-30,Georgia,3555,54.0
+Cook,2021-09-30,Illinois,619576,11595.0
+Cook,2021-09-30,Minnesota,219,0.0
+San Francisco,2021-10-01,California,52922,634.0
+Cook,2021-10-01,Georgia,3557,55.0
+Cook,2021-10-01,Illinois,620602,11603.0
+Cook,2021-10-01,Minnesota,220,0.0
+San Francisco,2021-10-02,California,52922,634.0
+Cook,2021-10-02,Georgia,3557,55.0
+Cook,2021-10-02,Illinois,620602,11603.0
+Cook,2021-10-02,Minnesota,220,0.0
+San Francisco,2021-10-03,California,52922,634.0
+Cook,2021-10-03,Georgia,3557,55.0
+Cook,2021-10-03,Illinois,620602,11603.0
+Cook,2021-10-03,Minnesota,220,0.0
+San Francisco,2021-10-04,California,53262,638.0
+Cook,2021-10-04,Georgia,3563,56.0
+Cook,2021-10-04,Illinois,622884,11622.0
+Cook,2021-10-04,Minnesota,221,0.0
+San Francisco,2021-10-05,California,53327,638.0
+Cook,2021-10-05,Georgia,3564,56.0
+Cook,2021-10-05,Illinois,623750,11634.0
+Cook,2021-10-05,Minnesota,223,0.0
+San Francisco,2021-10-06,California,53355,641.0
+Cook,2021-10-06,Georgia,3566,57.0
+Cook,2021-10-06,Illinois,624557,11644.0
+Cook,2021-10-06,Minnesota,225,0.0
+San Francisco,2021-10-07,California,53453,641.0
+Cook,2021-10-07,Georgia,3570,58.0
+Cook,2021-10-07,Illinois,625647,11651.0
+Cook,2021-10-07,Minnesota,228,0.0
+San Francisco,2021-10-08,California,53519,643.0
+Cook,2021-10-08,Georgia,3572,58.0
+Cook,2021-10-08,Illinois,626475,11664.0
+Cook,2021-10-08,Minnesota,229,0.0
+San Francisco,2021-10-09,California,53519,643.0
+Cook,2021-10-09,Georgia,3572,58.0
+Cook,2021-10-09,Illinois,626475,11664.0
+Cook,2021-10-09,Minnesota,229,0.0
+San Francisco,2021-10-10,California,53519,643.0
+Cook,2021-10-10,Georgia,3572,58.0
+Cook,2021-10-10,Illinois,626475,11664.0
+Cook,2021-10-10,Minnesota,229,0.0
+San Francisco,2021-10-11,California,53775,643.0
+Cook,2021-10-11,Georgia,3572,58.0
+Cook,2021-10-11,Illinois,626475,11664.0
+Cook,2021-10-11,Minnesota,230,0.0
+San Francisco,2021-10-12,California,53834,643.0
+Cook,2021-10-12,Georgia,3576,58.0
+Cook,2021-10-12,Illinois,628979,11682.0
+Cook,2021-10-12,Minnesota,236,0.0
+San Francisco,2021-10-13,California,53860,643.0
+Cook,2021-10-13,Georgia,3577,58.0
+Cook,2021-10-13,Illinois,629834,11700.0
+Cook,2021-10-13,Minnesota,238,0.0
+San Francisco,2021-10-14,California,53977,644.0
+Cook,2021-10-14,Georgia,3578,58.0
+Cook,2021-10-14,Illinois,630542,11712.0
+Cook,2021-10-14,Minnesota,240,0.0
+San Francisco,2021-10-15,California,54034,645.0
+Cook,2021-10-15,Georgia,3580,58.0
+Cook,2021-10-15,Illinois,631261,11723.0
+Cook,2021-10-15,Minnesota,242,0.0
+San Francisco,2021-10-16,California,54034,645.0
+Cook,2021-10-16,Georgia,3580,58.0
+Cook,2021-10-16,Illinois,631261,11723.0
+Cook,2021-10-16,Minnesota,242,0.0
+San Francisco,2021-10-17,California,54034,645.0
+Cook,2021-10-17,Georgia,3580,58.0
+Cook,2021-10-17,Illinois,631261,11723.0
+Cook,2021-10-17,Minnesota,242,0.0
+San Francisco,2021-10-18,California,54223,644.0
+Cook,2021-10-18,Georgia,3583,58.0
+Cook,2021-10-18,Illinois,633198,11737.0
+Cook,2021-10-18,Minnesota,243,0.0
+San Francisco,2021-10-19,California,54269,644.0
+Cook,2021-10-19,Georgia,3585,58.0
+Cook,2021-10-19,Illinois,633890,11747.0
+Cook,2021-10-19,Minnesota,246,0.0
+San Francisco,2021-10-20,California,54302,645.0
+Cook,2021-10-20,Georgia,3588,59.0
+Cook,2021-10-20,Illinois,634683,11757.0
+Cook,2021-10-20,Minnesota,246,0.0
+San Francisco,2021-10-21,California,54378,646.0
+Cook,2021-10-21,Georgia,3588,59.0
+Cook,2021-10-21,Illinois,635373,11763.0
+Cook,2021-10-21,Minnesota,246,0.0
+San Francisco,2021-10-22,California,54443,649.0
+Cook,2021-10-22,Georgia,3588,60.0
+Cook,2021-10-22,Illinois,636261,11769.0
+Cook,2021-10-22,Minnesota,246,0.0
+San Francisco,2021-10-23,California,54443,649.0
+Cook,2021-10-23,Georgia,3588,60.0
+Cook,2021-10-23,Illinois,636261,11769.0
+Cook,2021-10-23,Minnesota,246,0.0
+San Francisco,2021-10-24,California,54443,649.0
+Cook,2021-10-24,Georgia,3588,60.0
+Cook,2021-10-24,Illinois,636261,11769.0
+Cook,2021-10-24,Minnesota,246,0.0
+San Francisco,2021-10-25,California,54443,649.0
+Cook,2021-10-25,Georgia,3590,61.0
+Cook,2021-10-25,Illinois,638201,11786.0
+Cook,2021-10-25,Minnesota,245,0.0
+San Francisco,2021-10-26,California,54664,649.0
+Cook,2021-10-26,Georgia,3591,61.0
+Cook,2021-10-26,Illinois,638883,11804.0
+Cook,2021-10-26,Minnesota,246,0.0
+San Francisco,2021-10-27,California,54686,655.0
+Cook,2021-10-27,Georgia,3593,61.0
+Cook,2021-10-27,Illinois,639447,11810.0
+Cook,2021-10-27,Minnesota,247,0.0
+San Francisco,2021-10-28,California,54762,655.0
+Cook,2021-10-28,Georgia,3595,62.0
+Cook,2021-10-28,Illinois,640334,11823.0
+Cook,2021-10-28,Minnesota,247,0.0
+San Francisco,2021-10-29,California,54815,661.0
+Cook,2021-10-29,Georgia,3597,62.0
+Cook,2021-10-29,Illinois,641268,11826.0
+Cook,2021-10-29,Minnesota,248,0.0
+San Francisco,2021-10-30,California,54815,661.0
+Cook,2021-10-30,Georgia,3597,62.0
+Cook,2021-10-30,Illinois,641268,11826.0
+Cook,2021-10-30,Minnesota,248,0.0
+San Francisco,2021-10-31,California,54815,661.0
+Cook,2021-10-31,Georgia,3597,62.0
+Cook,2021-10-31,Illinois,641268,11826.0
+Cook,2021-10-31,Minnesota,248,0.0
+San Francisco,2021-11-01,California,55024,661.0
+Cook,2021-11-01,Georgia,3601,62.0
+Cook,2021-11-01,Illinois,643512,11844.0
+Cook,2021-11-01,Minnesota,252,0.0
+San Francisco,2021-11-02,California,55072,661.0
+Cook,2021-11-02,Georgia,3602,62.0
+Cook,2021-11-02,Illinois,644255,11858.0
+Cook,2021-11-02,Minnesota,254,0.0
+San Francisco,2021-11-03,California,55104,663.0
+Cook,2021-11-03,Georgia,3605,62.0
+Cook,2021-11-03,Illinois,644617,11869.0
+Cook,2021-11-03,Minnesota,254,0.0
+San Francisco,2021-11-04,California,55203,663.0
+Cook,2021-11-04,Georgia,3613,62.0
+Cook,2021-11-04,Illinois,646008,11876.0
+Cook,2021-11-04,Minnesota,256,0.0
+San Francisco,2021-11-05,California,55266,666.0
+Cook,2021-11-05,Georgia,3614,62.0
+Cook,2021-11-05,Illinois,646922,11883.0
+Cook,2021-11-05,Minnesota,261,0.0
+San Francisco,2021-11-06,California,55266,666.0
+Cook,2021-11-06,Georgia,3614,62.0
+Cook,2021-11-06,Illinois,646922,11883.0
+Cook,2021-11-06,Minnesota,261,0.0
+San Francisco,2021-11-07,California,55266,666.0
+Cook,2021-11-07,Georgia,3614,62.0
+Cook,2021-11-07,Illinois,646922,11883.0
+Cook,2021-11-07,Minnesota,261,0.0
+San Francisco,2021-11-08,California,55578,666.0
+Cook,2021-11-08,Georgia,3614,62.0
+Cook,2021-11-08,Illinois,649407,11892.0
+Cook,2021-11-08,Minnesota,263,0.0
+San Francisco,2021-11-09,California,55652,666.0
+Cook,2021-11-09,Georgia,3616,63.0
+Cook,2021-11-09,Illinois,649958,11902.0
+Cook,2021-11-09,Minnesota,267,0.0
+San Francisco,2021-11-10,California,55706,666.0
+Cook,2021-11-10,Georgia,3617,63.0
+Cook,2021-11-10,Illinois,651472,11910.0
+Cook,2021-11-10,Minnesota,268,0.0
+San Francisco,2021-11-11,California,55827,666.0
+Cook,2021-11-11,Georgia,3617,63.0
+Cook,2021-11-11,Illinois,651472,11910.0
+Cook,2021-11-11,Minnesota,270,0.0
+San Francisco,2021-11-12,California,55827,666.0
+Cook,2021-11-12,Georgia,3623,63.0
+Cook,2021-11-12,Illinois,654197,11923.0
+Cook,2021-11-12,Minnesota,275,0.0
+San Francisco,2021-11-13,California,55959,667.0
+Cook,2021-11-13,Georgia,3623,63.0
+Cook,2021-11-13,Illinois,654197,11923.0
+Cook,2021-11-13,Minnesota,275,0.0
+San Francisco,2021-11-14,California,55959,667.0
+Cook,2021-11-14,Georgia,3623,63.0
+Cook,2021-11-14,Illinois,654197,11923.0
+Cook,2021-11-14,Minnesota,275,0.0
+San Francisco,2021-11-15,California,56102,667.0
+Cook,2021-11-15,Georgia,3624,63.0
+Cook,2021-11-15,Illinois,657036,11937.0
+Cook,2021-11-15,Minnesota,280,0.0
+San Francisco,2021-11-16,California,56138,667.0
+Cook,2021-11-16,Georgia,3625,63.0
+Cook,2021-11-16,Illinois,657839,11946.0
+Cook,2021-11-16,Minnesota,288,0.0
+San Francisco,2021-11-17,California,56179,667.0
+Cook,2021-11-17,Georgia,3625,63.0
+Cook,2021-11-17,Illinois,659457,11953.0
+Cook,2021-11-17,Minnesota,289,0.0
+San Francisco,2021-11-18,California,56256,667.0
+Cook,2021-11-18,Georgia,3625,63.0
+Cook,2021-11-18,Illinois,661178,11964.0
+Cook,2021-11-18,Minnesota,292,0.0
+San Francisco,2021-11-19,California,56312,669.0
+Cook,2021-11-19,Georgia,3625,63.0
+Cook,2021-11-19,Illinois,663016,11984.0
+Cook,2021-11-19,Minnesota,292,0.0
+San Francisco,2021-11-20,California,56312,669.0
+Cook,2021-11-20,Georgia,3625,63.0
+Cook,2021-11-20,Illinois,663016,11984.0
+Cook,2021-11-20,Minnesota,292,0.0
+San Francisco,2021-11-21,California,56312,669.0
+Cook,2021-11-21,Georgia,3625,63.0
+Cook,2021-11-21,Illinois,663016,11984.0
+Cook,2021-11-21,Minnesota,292,0.0
+San Francisco,2021-11-22,California,56528,669.0
+Cook,2021-11-22,Georgia,3628,63.0
+Cook,2021-11-22,Illinois,666800,11997.0
+Cook,2021-11-22,Minnesota,295,0.0
+San Francisco,2021-11-23,California,56565,669.0
+Cook,2021-11-23,Georgia,3629,64.0
+Cook,2021-11-23,Illinois,668246,12003.0
+Cook,2021-11-23,Minnesota,299,0.0
+San Francisco,2021-11-24,California,56617,669.0
+Cook,2021-11-24,Georgia,3629,64.0
+Cook,2021-11-24,Illinois,669643,12007.0
+Cook,2021-11-24,Minnesota,300,0.0
+San Francisco,2021-11-25,California,56617,669.0
+Cook,2021-11-25,Georgia,3629,64.0
+Cook,2021-11-25,Illinois,669643,12007.0
+Cook,2021-11-25,Minnesota,300,0.0
+San Francisco,2021-11-26,California,56617,669.0
+Cook,2021-11-26,Georgia,3629,64.0
+Cook,2021-11-26,Illinois,669643,12007.0
+Cook,2021-11-26,Minnesota,302,0.0
+San Francisco,2021-11-27,California,56617,669.0
+Cook,2021-11-27,Georgia,3629,64.0
+Cook,2021-11-27,Illinois,669643,12007.0
+Cook,2021-11-27,Minnesota,302,0.0
+San Francisco,2021-11-28,California,56617,669.0
+Cook,2021-11-28,Georgia,3629,64.0
+Cook,2021-11-28,Illinois,669643,12007.0
+Cook,2021-11-28,Minnesota,302,0.0
+San Francisco,2021-11-29,California,56869,669.0
+Cook,2021-11-29,Georgia,3632,65.0
+Cook,2021-11-29,Illinois,675963,12038.0
+Cook,2021-11-29,Minnesota,301,0.0
+San Francisco,2021-11-30,California,56912,669.0
+Cook,2021-11-30,Georgia,3635,65.0
+Cook,2021-11-30,Illinois,677347,12051.0
+Cook,2021-11-30,Minnesota,307,0.0
+San Francisco,2021-12-01,California,56934,672.0
+Cook,2021-12-01,Georgia,3635,65.0
+Cook,2021-12-01,Illinois,678881,12056.0
+Cook,2021-12-01,Minnesota,307,1.0
+San Francisco,2021-12-02,California,57057,672.0
+Cook,2021-12-02,Georgia,3639,65.0
+Cook,2021-12-02,Illinois,682485,12066.0
+Cook,2021-12-02,Minnesota,313,1.0
+San Francisco,2021-12-03,California,57144,674.0
+Cook,2021-12-03,Georgia,3640,65.0
+Cook,2021-12-03,Illinois,684826,12076.0
+Cook,2021-12-03,Minnesota,314,1.0
+San Francisco,2021-12-04,California,57144,674.0
+Cook,2021-12-04,Georgia,3640,65.0
+Cook,2021-12-04,Illinois,684826,12076.0
+Cook,2021-12-04,Minnesota,314,1.0
+San Francisco,2021-12-05,California,57144,674.0
+Cook,2021-12-05,Georgia,3640,65.0
+Cook,2021-12-05,Illinois,684826,12076.0
+Cook,2021-12-05,Minnesota,314,1.0
+San Francisco,2021-12-06,California,57461,674.0
+Cook,2021-12-06,Georgia,3640,65.0
+Cook,2021-12-06,Illinois,690841,12100.0
+Cook,2021-12-06,Minnesota,315,1.0
+San Francisco,2021-12-07,California,57517,674.0
+Cook,2021-12-07,Georgia,3640,65.0
+Cook,2021-12-07,Illinois,692595,12137.0
+Cook,2021-12-07,Minnesota,319,1.0
+San Francisco,2021-12-08,California,57587,676.0
+Cook,2021-12-08,Georgia,3640,65.0
+Cook,2021-12-08,Illinois,694323,12145.0
+Cook,2021-12-08,Minnesota,321,1.0
+San Francisco,2021-12-09,California,57696,677.0
+Cook,2021-12-09,Georgia,3641,65.0
+Cook,2021-12-09,Illinois,697164,12160.0
+Cook,2021-12-09,Minnesota,322,1.0
+San Francisco,2021-12-10,California,57773,678.0
+Cook,2021-12-10,Georgia,3643,65.0
+Cook,2021-12-10,Illinois,699372,12166.0
+Cook,2021-12-10,Minnesota,324,1.0
+San Francisco,2021-12-11,California,57773,678.0
+Cook,2021-12-11,Georgia,3643,65.0
+Cook,2021-12-11,Illinois,699372,12166.0
+Cook,2021-12-11,Minnesota,324,1.0
+San Francisco,2021-12-12,California,57773,678.0
+Cook,2021-12-12,Georgia,3643,65.0
+Cook,2021-12-12,Illinois,699372,12166.0
+Cook,2021-12-12,Minnesota,324,1.0
+San Francisco,2021-12-13,California,58084,678.0
+Cook,2021-12-13,Georgia,3645,65.0
+Cook,2021-12-13,Illinois,706159,12198.0
+Cook,2021-12-13,Minnesota,325,1.0
+San Francisco,2021-12-14,California,58149,678.0
+Cook,2021-12-14,Georgia,3648,65.0
+Cook,2021-12-14,Illinois,708463,12205.0
+Cook,2021-12-14,Minnesota,328,1.0
+San Francisco,2021-12-15,California,58182,679.0
+Cook,2021-12-15,Georgia,3646,65.0
+Cook,2021-12-15,Illinois,711936,12247.0
+Cook,2021-12-15,Minnesota,329,1.0
+San Francisco,2021-12-16,California,58350,679.0
+Cook,2021-12-16,Georgia,3647,65.0
+Cook,2021-12-16,Illinois,716675,12257.0
+Cook,2021-12-16,Minnesota,332,1.0
+San Francisco,2021-12-17,California,58498,679.0
+Cook,2021-12-17,Georgia,3649,65.0
+Cook,2021-12-17,Illinois,721308,12268.0
+Cook,2021-12-17,Minnesota,333,1.0
+San Francisco,2021-12-18,California,58498,679.0
+Cook,2021-12-18,Georgia,3649,65.0
+Cook,2021-12-18,Illinois,721308,12268.0
+Cook,2021-12-18,Minnesota,333,1.0
+San Francisco,2021-12-19,California,58498,679.0
+Cook,2021-12-19,Georgia,3649,65.0
+Cook,2021-12-19,Illinois,721308,12268.0
+Cook,2021-12-19,Minnesota,333,1.0
+San Francisco,2021-12-20,California,59294,681.0
+Cook,2021-12-20,Georgia,3651,65.0
+Cook,2021-12-20,Illinois,736944,12306.0
+Cook,2021-12-20,Minnesota,335,1.0
+San Francisco,2021-12-21,California,59597,681.0
+Cook,2021-12-21,Georgia,3656,65.0
+Cook,2021-12-21,Illinois,741390,12343.0
+Cook,2021-12-21,Minnesota,338,1.0
+San Francisco,2021-12-22,California,59886,681.0
+Cook,2021-12-22,Georgia,3660,65.0
+Cook,2021-12-22,Illinois,749730,12366.0
+Cook,2021-12-22,Minnesota,339,1.0
+San Francisco,2021-12-23,California,60608,682.0
+Cook,2021-12-23,Georgia,3667,65.0
+Cook,2021-12-23,Illinois,759614,12385.0
+Cook,2021-12-23,Minnesota,343,1.0
+San Francisco,2021-12-24,California,61317,682.0
+Cook,2021-12-24,Georgia,3672,65.0
+Cook,2021-12-24,Illinois,759614,12385.0
+Cook,2021-12-24,Minnesota,343,1.0
+San Francisco,2021-12-25,California,61317,682.0
+Cook,2021-12-25,Georgia,3672,65.0
+Cook,2021-12-25,Illinois,759614,12385.0
+Cook,2021-12-25,Minnesota,343,1.0
+San Francisco,2021-12-26,California,61317,682.0
+Cook,2021-12-26,Georgia,3672,65.0
+Cook,2021-12-26,Illinois,759614,12385.0
+Cook,2021-12-26,Minnesota,343,1.0
+San Francisco,2021-12-27,California,61317,682.0
+Cook,2021-12-27,Georgia,3678,65.0
+Cook,2021-12-27,Illinois,789332,12436.0
+Cook,2021-12-27,Minnesota,345,1.0
+San Francisco,2021-12-28,California,64008,682.0
+Cook,2021-12-28,Georgia,3687,65.0
+Cook,2021-12-28,Illinois,798775,12496.0
+Cook,2021-12-28,Minnesota,350,1.0
+San Francisco,2021-12-29,California,64833,682.0
+Cook,2021-12-29,Georgia,3707,65.0
+Cook,2021-12-29,Illinois,808541,12515.0
+Cook,2021-12-29,Minnesota,353,1.0
+San Francisco,2021-12-30,California,66545,684.0
+Cook,2021-12-30,Georgia,3724,65.0
+Cook,2021-12-30,Illinois,821472,12541.0
+Cook,2021-12-30,Minnesota,356,1.0
+San Francisco,2021-12-31,California,67926,682.0
+Cook,2021-12-31,Georgia,3743,65.0
+Cook,2021-12-31,Illinois,821472,12541.0
+Cook,2021-12-31,Minnesota,356,1.0
+San Francisco,2022-01-01,California,67926,682.0
+Cook,2022-01-01,Georgia,3743,65.0
+Cook,2022-01-01,Illinois,821472,12541.0
+Cook,2022-01-01,Minnesota,356,1.0
+San Francisco,2022-01-02,California,67926,682.0
+Cook,2022-01-02,Georgia,3743,65.0
+Cook,2022-01-02,Illinois,821472,12541.0
+Cook,2022-01-02,Minnesota,356,1.0
+San Francisco,2022-01-03,California,67926,682.0
+Cook,2022-01-03,Georgia,3743,65.0
+Cook,2022-01-03,Illinois,862761,12610.0
+Cook,2022-01-03,Minnesota,364,1.0
+San Francisco,2022-01-04,California,72743,686.0
+Cook,2022-01-04,Georgia,3808,65.0
+Cook,2022-01-04,Illinois,871457,12664.0
+Cook,2022-01-04,Minnesota,369,1.0
+San Francisco,2022-01-05,California,74094,688.0
+Cook,2022-01-05,Georgia,3832,65.0
+Cook,2022-01-05,Illinois,883180,12686.0
+Cook,2022-01-05,Minnesota,373,1.0
+San Francisco,2022-01-06,California,75897,686.0
+Cook,2022-01-06,Georgia,3832,65.0
+Cook,2022-01-06,Illinois,900993,12714.0
+Cook,2022-01-06,Minnesota,374,1.0
+San Francisco,2022-01-07,California,78152,690.0
+Cook,2022-01-07,Georgia,3832,65.0
+Cook,2022-01-07,Illinois,917379,12757.0
+Cook,2022-01-07,Minnesota,378,1.0
+San Francisco,2022-01-08,California,78152,690.0
+Cook,2022-01-08,Georgia,3832,65.0
+Cook,2022-01-08,Illinois,917379,12757.0
+Cook,2022-01-08,Minnesota,378,1.0
+San Francisco,2022-01-09,California,78152,690.0
+Cook,2022-01-09,Georgia,3832,65.0
+Cook,2022-01-09,Illinois,917379,12757.0
+Cook,2022-01-09,Minnesota,378,1.0
+San Francisco,2022-01-10,California,84955,690.0
+Cook,2022-01-10,Georgia,3972,65.0
+Cook,2022-01-10,Illinois,947175,12844.0
+Cook,2022-01-10,Minnesota,385,1.0
+San Francisco,2022-01-11,California,86701,690.0
+Cook,2022-01-11,Georgia,4007,65.0
+Cook,2022-01-11,Illinois,955286,12906.0
+Cook,2022-01-11,Minnesota,407,1.0
+San Francisco,2022-01-12,California,88170,691.0
+Cook,2022-01-12,Georgia,4046,65.0
+Cook,2022-01-12,Illinois,966133,12961.0
+Cook,2022-01-12,Minnesota,410,1.0
+San Francisco,2022-01-13,California,92571,691.0
+Cook,2022-01-13,Georgia,4086,65.0
+Cook,2022-01-13,Illinois,977558,13013.0
+Cook,2022-01-13,Minnesota,414,1.0
+San Francisco,2022-01-14,California,94875,692.0
+Cook,2022-01-14,Georgia,4131,65.0
+Cook,2022-01-14,Illinois,986858,13058.0
+Cook,2022-01-14,Minnesota,421,1.0
+San Francisco,2022-01-15,California,94875,692.0
+Cook,2022-01-15,Georgia,4131,65.0
+Cook,2022-01-15,Illinois,986858,13058.0
+Cook,2022-01-15,Minnesota,421,1.0
+San Francisco,2022-01-16,California,94875,692.0
+Cook,2022-01-16,Georgia,4131,65.0
+Cook,2022-01-16,Illinois,986858,13058.0
+Cook,2022-01-16,Minnesota,421,1.0
+San Francisco,2022-01-17,California,101010,694.0
+Cook,2022-01-17,Georgia,4220,65.0
+Cook,2022-01-17,Illinois,986858,13058.0
+Cook,2022-01-17,Minnesota,421,1.0
+San Francisco,2022-01-18,California,102163,694.0
+Cook,2022-01-18,Georgia,4257,65.0
+Cook,2022-01-18,Illinois,1015651,13159.0
+Cook,2022-01-18,Minnesota,425,1.0
+San Francisco,2022-01-19,California,103376,694.0
+Cook,2022-01-19,Georgia,4300,65.0
+Cook,2022-01-19,Illinois,1021674,13272.0
+Cook,2022-01-19,Minnesota,447,1.0
+San Francisco,2022-01-20,California,108276,694.0
+Cook,2022-01-20,Georgia,4401,65.0
+Cook,2022-01-20,Illinois,1027891,13344.0
+Cook,2022-01-20,Minnesota,451,1.0
+San Francisco,2022-01-21,California,109862,702.0
+Cook,2022-01-21,Georgia,4443,65.0
+Cook,2022-01-21,Illinois,1043508,13401.0
+Cook,2022-01-21,Minnesota,454,1.0
+San Francisco,2022-01-22,California,109862,702.0
+Cook,2022-01-22,Georgia,4443,65.0
+Cook,2022-01-22,Illinois,1043508,13401.0
+Cook,2022-01-22,Minnesota,454,1.0
+San Francisco,2022-01-23,California,109862,702.0
+Cook,2022-01-23,Georgia,4443,65.0
+Cook,2022-01-23,Illinois,1043508,13401.0
+Cook,2022-01-23,Minnesota,454,1.0
+San Francisco,2022-01-24,California,114109,704.0
+Cook,2022-01-24,Georgia,4540,65.0
+Cook,2022-01-24,Illinois,1063411,13568.0
+Cook,2022-01-24,Minnesota,456,1.0
+San Francisco,2022-01-25,California,115042,703.0
+Cook,2022-01-25,Georgia,4591,65.0
+Cook,2022-01-25,Illinois,1065712,13623.0
+Cook,2022-01-25,Minnesota,469,1.0
+San Francisco,2022-01-26,California,115878,703.0
+Cook,2022-01-26,Georgia,4622,65.0
+Cook,2022-01-26,Illinois,1068855,13689.0
+Cook,2022-01-26,Minnesota,472,2.0
+San Francisco,2022-01-27,California,118446,704.0
+Cook,2022-01-27,Georgia,4647,66.0
+Cook,2022-01-27,Illinois,1071981,13745.0
+Cook,2022-01-27,Minnesota,475,2.0
+San Francisco,2022-01-28,California,119537,712.0
+Cook,2022-01-28,Georgia,4672,66.0
+Cook,2022-01-28,Illinois,1075346,13795.0
+Cook,2022-01-28,Minnesota,482,2.0
+San Francisco,2022-01-29,California,119537,712.0
+Cook,2022-01-29,Georgia,4672,66.0
+Cook,2022-01-29,Illinois,1075346,13795.0
+Cook,2022-01-29,Minnesota,482,2.0
+San Francisco,2022-01-30,California,119537,712.0
+Cook,2022-01-30,Georgia,4672,66.0
+Cook,2022-01-30,Illinois,1075346,13795.0
+Cook,2022-01-30,Minnesota,482,2.0
+San Francisco,2022-01-31,California,122044,712.0
+Cook,2022-01-31,Georgia,4719,66.0
+Cook,2022-01-31,Illinois,1080784,13897.0
+Cook,2022-01-31,Minnesota,490,2.0
+San Francisco,2022-02-01,California,122391,712.0
+Cook,2022-02-01,Georgia,4744,66.0
+Cook,2022-02-01,Illinois,1082395,13970.0
+Cook,2022-02-01,Minnesota,507,2.0
+San Francisco,2022-02-02,California,122878,713.0
+Cook,2022-02-02,Georgia,4764,66.0
+Cook,2022-02-02,Illinois,1084468,13988.0
+Cook,2022-02-02,Minnesota,509,2.0
+San Francisco,2022-02-03,California,124120,714.0
+Cook,2022-02-03,Georgia,4778,66.0
+Cook,2022-02-03,Illinois,1084468,13988.0
+Cook,2022-02-03,Minnesota,509,2.0
+San Francisco,2022-02-04,California,124593,720.0
+Cook,2022-02-04,Georgia,4787,66.0
+Cook,2022-02-04,Illinois,1089942,14052.0
+Cook,2022-02-04,Minnesota,513,2.0
+San Francisco,2022-02-05,California,124593,720.0
+Cook,2022-02-05,Georgia,4787,66.0
+Cook,2022-02-05,Illinois,1089942,14052.0
+Cook,2022-02-05,Minnesota,513,2.0
+San Francisco,2022-02-06,California,124593,720.0
+Cook,2022-02-06,Georgia,4787,66.0
+Cook,2022-02-06,Illinois,1089942,14052.0
+Cook,2022-02-06,Minnesota,513,2.0
+San Francisco,2022-02-07,California,125227,728.0
+Cook,2022-02-07,Georgia,4812,67.0
+Cook,2022-02-07,Illinois,1093945,14142.0
+Cook,2022-02-07,Minnesota,516,2.0
+San Francisco,2022-02-08,California,126057,727.0
+Cook,2022-02-08,Georgia,4823,67.0
+Cook,2022-02-08,Illinois,1095321,14195.0
+Cook,2022-02-08,Minnesota,519,2.0
+San Francisco,2022-02-09,California,130054,731.0
+Cook,2022-02-09,Georgia,4828,67.0
+Cook,2022-02-09,Illinois,1096346,14240.0
+Cook,2022-02-09,Minnesota,518,2.0
+San Francisco,2022-02-10,California,127290,731.0
+Cook,2022-02-10,Georgia,4837,67.0
+Cook,2022-02-10,Illinois,1097792,14280.0
+Cook,2022-02-10,Minnesota,519,3.0
+San Francisco,2022-02-11,California,127853,740.0
+Cook,2022-02-11,Georgia,4844,67.0
+Cook,2022-02-11,Illinois,1097792,14280.0
+Cook,2022-02-11,Minnesota,521,3.0
+San Francisco,2022-02-12,California,127853,740.0
+Cook,2022-02-12,Georgia,4844,67.0
+Cook,2022-02-12,Illinois,1097792,14280.0
+Cook,2022-02-12,Minnesota,521,3.0
+San Francisco,2022-02-13,California,127853,740.0
+Cook,2022-02-13,Georgia,4844,67.0
+Cook,2022-02-13,Illinois,1097792,14280.0
+Cook,2022-02-13,Minnesota,521,3.0
+San Francisco,2022-02-14,California,129035,756.0
+Cook,2022-02-14,Georgia,4851,68.0
+Cook,2022-02-14,Illinois,1102010,14350.0
+Cook,2022-02-14,Minnesota,527,3.0
+San Francisco,2022-02-15,California,129321,756.0
+Cook,2022-02-15,Georgia,4852,68.0
+Cook,2022-02-15,Illinois,1102713,14381.0
+Cook,2022-02-15,Minnesota,531,3.0
+San Francisco,2022-02-16,California,129499,756.0
+Cook,2022-02-16,Georgia,4856,68.0
+Cook,2022-02-16,Illinois,1103573,14409.0
+Cook,2022-02-16,Minnesota,531,3.0
+San Francisco,2022-02-17,California,129571,756.0
+Cook,2022-02-17,Georgia,4856,68.0
+Cook,2022-02-17,Illinois,1104210,14423.0
+Cook,2022-02-17,Minnesota,532,4.0
+San Francisco,2022-02-18,California,129781,756.0
+Cook,2022-02-18,Georgia,4855,68.0
+Cook,2022-02-18,Illinois,1105263,14439.0
+Cook,2022-02-18,Minnesota,533,4.0
+San Francisco,2022-02-19,California,129781,756.0
+Cook,2022-02-19,Georgia,4855,68.0
+Cook,2022-02-19,Illinois,1105263,14439.0
+Cook,2022-02-19,Minnesota,533,4.0
+San Francisco,2022-02-20,California,129781,756.0
+Cook,2022-02-20,Georgia,4855,68.0
+Cook,2022-02-20,Illinois,1105263,14439.0
+Cook,2022-02-20,Minnesota,533,4.0
+San Francisco,2022-02-21,California,129781,756.0
+Cook,2022-02-21,Georgia,4859,69.0
+Cook,2022-02-21,Illinois,1105263,14439.0
+Cook,2022-02-21,Minnesota,533,4.0
+San Francisco,2022-02-22,California,130449,769.0
+Cook,2022-02-22,Georgia,4862,69.0
+Cook,2022-02-22,Illinois,1107288,14491.0
+Cook,2022-02-22,Minnesota,533,4.0
+San Francisco,2022-02-23,California,130538,769.0
+Cook,2022-02-23,Georgia,4865,69.0
+Cook,2022-02-23,Illinois,1108068,14535.0
+Cook,2022-02-23,Minnesota,535,4.0
+San Francisco,2022-02-24,California,130764,769.0
+Cook,2022-02-24,Georgia,4867,69.0
+Cook,2022-02-24,Illinois,1108582,14552.0
+Cook,2022-02-24,Minnesota,538,4.0
+San Francisco,2022-02-25,California,131716,769.0
+Cook,2022-02-25,Georgia,4871,69.0
+Cook,2022-02-25,Illinois,1109348,14571.0
+Cook,2022-02-25,Minnesota,539,4.0
+San Francisco,2022-02-26,California,131716,769.0
+Cook,2022-02-26,Georgia,4871,69.0
+Cook,2022-02-26,Illinois,1109348,14571.0
+Cook,2022-02-26,Minnesota,539,4.0
+San Francisco,2022-02-27,California,131716,769.0
+Cook,2022-02-27,Georgia,4871,69.0
+Cook,2022-02-27,Illinois,1109348,14571.0
+Cook,2022-02-27,Minnesota,539,4.0
+San Francisco,2022-02-28,California,131964,791.0
+Cook,2022-02-28,Georgia,4873,69.0
+Cook,2022-02-28,Illinois,1111190,14606.0
+Cook,2022-02-28,Minnesota,540,4.0
+San Francisco,2022-03-01,California,132039,792.0
+Cook,2022-03-01,Georgia,4874,70.0
+Cook,2022-03-01,Illinois,1111943,14624.0
+Cook,2022-03-01,Minnesota,540,4.0
+San Francisco,2022-03-02,California,132118,792.0
+Cook,2022-03-02,Georgia,4875,70.0
+Cook,2022-03-02,Illinois,1112561,14638.0
+Cook,2022-03-02,Minnesota,541,4.0
+San Francisco,2022-03-03,California,132028,792.0
+Cook,2022-03-03,Georgia,4873,70.0
+Cook,2022-03-03,Illinois,1113031,14654.0
+Cook,2022-03-03,Minnesota,541,4.0
+San Francisco,2022-03-04,California,132123,798.0
+Cook,2022-03-04,Georgia,4875,70.0
+Cook,2022-03-04,Illinois,1113552,14665.0
+Cook,2022-03-04,Minnesota,542,4.0
+San Francisco,2022-03-05,California,132123,798.0
+Cook,2022-03-05,Georgia,4875,70.0
+Cook,2022-03-05,Illinois,1113552,14665.0
+Cook,2022-03-05,Minnesota,542,4.0
+San Francisco,2022-03-06,California,132123,798.0
+Cook,2022-03-06,Georgia,4875,70.0
+Cook,2022-03-06,Illinois,1113552,14665.0
+Cook,2022-03-06,Minnesota,542,4.0
+San Francisco,2022-03-07,California,132328,806.0
+Cook,2022-03-07,Georgia,4878,70.0
+Cook,2022-03-07,Illinois,1114552,14678.0
+Cook,2022-03-07,Minnesota,545,4.0
+San Francisco,2022-03-08,California,132241,807.0
+Cook,2022-03-08,Georgia,4879,70.0
+Cook,2022-03-08,Illinois,1114942,14686.0
+Cook,2022-03-08,Minnesota,545,4.0
+San Francisco,2022-03-09,California,132261,807.0
+Cook,2022-03-09,Georgia,4879,70.0
+Cook,2022-03-09,Illinois,1115700,14697.0
+Cook,2022-03-09,Minnesota,545,4.0
+San Francisco,2022-03-10,California,132204,812.0
+Cook,2022-03-10,Georgia,4879,70.0
+Cook,2022-03-10,Illinois,1116353,14711.0
+Cook,2022-03-10,Minnesota,545,4.0
+San Francisco,2022-03-11,California,132138,823.0
+Cook,2022-03-11,Georgia,4880,70.0
+Cook,2022-03-11,Illinois,1117364,14718.0
+Cook,2022-03-11,Minnesota,549,4.0
+San Francisco,2022-03-12,California,132138,823.0
+Cook,2022-03-12,Georgia,4880,70.0
+Cook,2022-03-12,Illinois,1117364,14718.0
+Cook,2022-03-12,Minnesota,549,4.0
+San Francisco,2022-03-13,California,132138,823.0
+Cook,2022-03-13,Georgia,4880,70.0
+Cook,2022-03-13,Illinois,1117364,14718.0
+Cook,2022-03-13,Minnesota,549,4.0
+San Francisco,2022-03-14,California,132150,824.0
+Cook,2022-03-14,Georgia,4882,70.0
+Cook,2022-03-14,Illinois,1118357,14728.0
+Cook,2022-03-14,Minnesota,550,4.0
+San Francisco,2022-03-15,California,132103,824.0
+Cook,2022-03-15,Georgia,4884,70.0
+Cook,2022-03-15,Illinois,1118987,14740.0
+Cook,2022-03-15,Minnesota,548,4.0
+San Francisco,2022-03-16,California,132054,831.0
+Cook,2022-03-16,Georgia,4885,70.0
+Cook,2022-03-16,Illinois,1119444,14746.0
+Cook,2022-03-16,Minnesota,548,4.0
+San Francisco,2022-03-17,California,131764,831.0
+Cook,2022-03-17,Georgia,4886,71.0
+Cook,2022-03-17,Illinois,1119976,14750.0
+Cook,2022-03-17,Minnesota,548,4.0
+San Francisco,2022-03-18,California,131905,833.0
+Cook,2022-03-18,Georgia,4886,71.0
+Cook,2022-03-18,Illinois,1120619,14751.0
+Cook,2022-03-18,Minnesota,548,4.0
+San Francisco,2022-03-19,California,131905,833.0
+Cook,2022-03-19,Georgia,4886,71.0
+Cook,2022-03-19,Illinois,1120619,14751.0
+Cook,2022-03-19,Minnesota,548,4.0
+San Francisco,2022-03-20,California,131905,833.0
+Cook,2022-03-20,Georgia,4886,71.0
+Cook,2022-03-20,Illinois,1120619,14751.0
+Cook,2022-03-20,Minnesota,548,4.0
+San Francisco,2022-03-21,California,132176,835.0
+Cook,2022-03-21,Georgia,4886,71.0
+Cook,2022-03-21,Illinois,1121743,14759.0
+Cook,2022-03-21,Minnesota,548,4.0
+San Francisco,2022-03-22,California,132230,835.0
+Cook,2022-03-22,Georgia,4886,72.0
+Cook,2022-03-22,Illinois,1122376,14774.0
+Cook,2022-03-22,Minnesota,549,4.0
+San Francisco,2022-03-23,California,132316,838.0
+Cook,2022-03-23,Georgia,4886,72.0
+Cook,2022-03-23,Illinois,1122841,14781.0
+Cook,2022-03-23,Minnesota,550,4.0
+San Francisco,2022-03-24,California,132461,838.0
+Cook,2022-03-24,Georgia,4886,72.0
+Cook,2022-03-24,Illinois,1123719,14787.0
+Cook,2022-03-24,Minnesota,550,4.0
+San Francisco,2022-03-25,California,132616,839.0
+Cook,2022-03-25,Georgia,4886,72.0
+Cook,2022-03-25,Illinois,1124384,14793.0
+Cook,2022-03-25,Minnesota,551,4.0
+San Francisco,2022-03-26,California,132616,839.0
+Cook,2022-03-26,Georgia,4886,72.0
+Cook,2022-03-26,Illinois,1124384,14793.0
+Cook,2022-03-26,Minnesota,551,4.0
+San Francisco,2022-03-27,California,132616,839.0
+Cook,2022-03-27,Georgia,4886,72.0
+Cook,2022-03-27,Illinois,1124384,14793.0
+Cook,2022-03-27,Minnesota,551,4.0
+San Francisco,2022-03-28,California,132970,839.0
+Cook,2022-03-28,Georgia,4891,72.0
+Cook,2022-03-28,Illinois,1125678,14799.0
+Cook,2022-03-28,Minnesota,551,4.0
+San Francisco,2022-03-29,California,133029,839.0
+Cook,2022-03-29,Georgia,4891,72.0
+Cook,2022-03-29,Illinois,1126435,14805.0
+Cook,2022-03-29,Minnesota,552,4.0
+San Francisco,2022-03-30,California,133140,840.0
+Cook,2022-03-30,Georgia,4892,72.0
+Cook,2022-03-30,Illinois,1126979,14807.0
+Cook,2022-03-30,Minnesota,553,4.0
+San Francisco,2022-03-31,California,133339,841.0
+Cook,2022-03-31,Georgia,4892,72.0
+Cook,2022-03-31,Illinois,1127765,14811.0
+Cook,2022-03-31,Minnesota,554,4.0
+San Francisco,2022-04-01,California,133484,843.0
+Cook,2022-04-01,Georgia,4893,72.0
+Cook,2022-04-01,Illinois,1128478,14820.0
+Cook,2022-04-01,Minnesota,554,4.0
+San Francisco,2022-04-02,California,133484,843.0
+Cook,2022-04-02,Georgia,4893,72.0
+Cook,2022-04-02,Illinois,1128478,14820.0
+Cook,2022-04-02,Minnesota,554,4.0
+San Francisco,2022-04-03,California,133484,843.0
+Cook,2022-04-03,Georgia,4893,72.0
+Cook,2022-04-03,Illinois,1128478,14820.0
+Cook,2022-04-03,Minnesota,554,4.0
+San Francisco,2022-04-04,California,133484,843.0
+Cook,2022-04-04,Georgia,4894,73.0
+Cook,2022-04-04,Illinois,1130052,14822.0
+Cook,2022-04-04,Minnesota,554,4.0
+San Francisco,2022-04-05,California,133945,843.0
+Cook,2022-04-05,Georgia,4894,73.0
+Cook,2022-04-05,Illinois,1130951,14830.0
+Cook,2022-04-05,Minnesota,554,4.0
+San Francisco,2022-04-06,California,133945,843.0
+Cook,2022-04-06,Georgia,4895,73.0
+Cook,2022-04-06,Illinois,1132072,14831.0
+Cook,2022-04-06,Minnesota,554,4.0
+San Francisco,2022-04-07,California,133945,843.0
+Cook,2022-04-07,Georgia,4896,74.0
+Cook,2022-04-07,Illinois,1132875,14838.0
+Cook,2022-04-07,Minnesota,554,4.0
+San Francisco,2022-04-08,California,134372,844.0
+Cook,2022-04-08,Georgia,4896,74.0
+Cook,2022-04-08,Illinois,1134146,14837.0
+Cook,2022-04-08,Minnesota,554,4.0
+San Francisco,2022-04-09,California,134372,844.0
+Cook,2022-04-09,Georgia,4896,74.0
+Cook,2022-04-09,Illinois,1134146,14837.0
+Cook,2022-04-09,Minnesota,554,4.0
+San Francisco,2022-04-10,California,134372,844.0
+Cook,2022-04-10,Georgia,4896,74.0
+Cook,2022-04-10,Illinois,1134146,14837.0
+Cook,2022-04-10,Minnesota,554,4.0
+San Francisco,2022-04-11,California,134372,844.0
+Cook,2022-04-11,Georgia,4897,74.0
+Cook,2022-04-11,Illinois,1136504,14837.0
+Cook,2022-04-11,Minnesota,554,4.0
+San Francisco,2022-04-12,California,134372,844.0
+Cook,2022-04-12,Georgia,4898,74.0
+Cook,2022-04-12,Illinois,1137242,14841.0
+Cook,2022-04-12,Minnesota,554,4.0
+San Francisco,2022-04-13,California,134372,844.0
+Cook,2022-04-13,Georgia,4899,74.0
+Cook,2022-04-13,Illinois,1138244,14845.0
+Cook,2022-04-13,Minnesota,555,4.0
